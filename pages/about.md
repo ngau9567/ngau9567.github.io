@@ -5,21 +5,21 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 ---
 
 #### <a name="CurrentPosition"></a>Current Position
-<p>Digital Map Developer / Research Analyst</p>
+<p>Digital Map Developer / Research Analyst</p><br>
 
 
 #### <a name="PreviousPosition"></a>Previous Positions
 Financial Data Analyst<br>
-Data Reporting Analyst
+Data Reporting Analyst<br>
 
 
-<br>#### <a name="ResearchBackground"></a>Research Background
+#### <a name="ResearchBackground"></a>Research Background
 Data Analysis<br>
-Machine Learning
+Machine Learning<br>
 
 
 
-<br>#### <a name="Education"></a>Ecucation
+#### <a name="Education"></a>Ecucation
 George Washington University - May 2022<br>
 MASTER OF SCIENCE (M.S.) in Data Analytics, with a concentration in Computer Science<br>
 <br>
@@ -29,7 +29,7 @@ BACHELOR OF ARTS (B.A.) in Information Technology and Economics
 
 
 
-<br>#### <a name="CVandResume"></a>CV and Resume
+#### <a name="CVandResume"></a>CV and Resume
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Kahang_Ngau.pdf)
 
 ---
