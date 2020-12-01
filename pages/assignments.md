@@ -1,7 +1,7 @@
 ---
 layout: page
 title: labs & assignments
-description: Ben Harvey's assignments
+description: Kahang Ngau's assignments
 ---
 
 
