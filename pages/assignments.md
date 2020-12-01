@@ -22,7 +22,7 @@ description: Kahang Ngau's assignments
 ### SEAS 6401 Assignments
 ####  <a name="Assignment1"></a>Assignment1
 ##### <a name="datamanipulationandaggregation"></a>Data Maniuplation and Aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/ngau9567/assets/ML02-LinearRegressionI.ipynb)
+* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib]({{ BASE_PATH }}/assets/ML02-LinearRegressionI.ipynb)
 
 {Add description of example an assignment here}
 
