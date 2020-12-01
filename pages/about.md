@@ -30,7 +30,7 @@ BACHELOR OF ARTS (B.A.) in Information Technology and Economics
 
 
 
-#### <a name="cvandresume"></a>cv and resume
+#### <a name="CVandResume"></a>CV and Resume
 [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/Kahang_Ngau.pdf)
 
 ---
