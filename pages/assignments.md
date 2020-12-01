@@ -19,10 +19,10 @@ description: Kahang Ngau's assignments
 </div>
 
 
-### EMSE 6992 Assignments
+### SEAS 6401 Assignments
 ####  <a name="Assignment1"></a>Assignment1
-##### <a name="datamanipulationandaggregation"></a>data maniuplation and aggregation
-* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/bsharvey/EMSEDataAnalytics/blob/master/EMSE6992_Labs/lab3/lab3full.ipynb)
+##### <a name="datamanipulationandaggregation"></a>Data Maniuplation and Aggregation
+* [Lab: Exploratory Data Analysis for Classification using Pandas and Matplotlib](https://github.com/ngau9567/assets/ML 02 - Linear Regression I.ipynb)
 
 {Add description of example an assignment here}
 
