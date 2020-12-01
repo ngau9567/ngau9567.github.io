@@ -22,7 +22,7 @@ Machine Learning</p><br>
 #### <a name="Education"></a>Ecucation
 <p>George Washington University - May 2022<br>
 MASTER OF SCIENCE (M.S.) in Data Analytics, with a concentration in Computer Science</p><br>
-<br>
+
 <p>Rutgers University, New Brunswick, NJ - May 2018<br>
 BACHELOR OF ARTS (B.A.) in Information Technology and Economics</p><br>
 
