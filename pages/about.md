@@ -9,22 +9,22 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 
 
 #### <a name="PreviousPosition"></a>Previous Positions
-Financial Data Analyst<br>
-Data Reporting Analyst<br>
+<p>Financial Data Analyst</p><br>
+<p>Data Reporting Analyst</p><br>
 
 
 #### <a name="ResearchBackground"></a>Research Background
-Data Analysis<br>
-Machine Learning<br>
+<p>Data Analysis</p><br>
+<p>Machine Learning</p><br>
 
 
 
 #### <a name="Education"></a>Ecucation
-George Washington University - May 2022<br>
-MASTER OF SCIENCE (M.S.) in Data Analytics, with a concentration in Computer Science<br>
+<p>George Washington University - May 2022</p><br>
+<p>MASTER OF SCIENCE (M.S.) in Data Analytics, with a concentration in Computer Science</p><br>
 <br>
-Rutgers University, New Brunswick, NJ - May 2018<br>
-BACHELOR OF ARTS (B.A.) in Information Technology and Economics
+<p>Rutgers University, New Brunswick, NJ - May 2018</p><br>
+<p>BACHELOR OF ARTS (B.A.) in Information Technology and Economics</p><br>
 
 
 
