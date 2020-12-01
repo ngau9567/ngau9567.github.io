@@ -5,8 +5,8 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 ---
 
 #### <a name="CurrentPosition"></a>Current Position
-Digital Map Developer / Research Analyst
-<br>
+<p>Digital Map Developer / Research Analyst</p>
+
 
 #### <a name="PreviousPosition"></a>Previous Positions
 Financial Data Analyst<br>
