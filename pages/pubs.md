@@ -1,7 +1,7 @@
 ---
 layout: page
 title: publications
-description: Ben Harvey's publications
+description: Kahang Ngau's publications
 ---
 
 <div class="navbar">
