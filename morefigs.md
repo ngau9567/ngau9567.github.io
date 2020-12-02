@@ -1,6 +1,6 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Kahang Ngau
 ---
 
 <div class="navbar">
