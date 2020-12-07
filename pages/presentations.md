@@ -7,7 +7,7 @@ description: Kahang Ngau's Presentations in Data Analytics
 
 ###  2020
 
-#### SEAS 6401 Final Project: Trending on YouTube Video
+#### SEAS 6401 Final Project: Prodiction on Trending YouTube Video Project
 ##### <a name="MachineLearningCapstoneProject"></a>Machine Learning Capstone Project
 * [CODE: Trending on YouTube Video](https://github.com/ngau9567/ngau9567.github.io/tree/master/assets/MLCapstoneProject.ipynb)
 <br/>&nbsp; &nbsp; &nbsp; Slides:
