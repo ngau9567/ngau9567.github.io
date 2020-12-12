@@ -5,10 +5,6 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 ---
 #### <a name="kahangngau"></a>Kahang Ngau
 
-
-<center><img src="/assets/pics/ME2.jpg" style="width:550px;height:400px;"></center>
-
-
 #### <a name="CurrentPosition"></a>Current Position
 <p>Currently working as a Digital Map Developer/Research Analyst at a digital mapping projects with 2 PHD students. Responsible for creating interactive maps on ArcGIS with documented locations of China studies’ archival and digital collections in the US and Canada. Performed geocoding with the verified addresses of existing collections.</p><br>
 
@@ -29,6 +25,7 @@ BACHELOR OF ARTS (B.A.) in Information Technology and Economics</p><br>
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://github.com/ngau9567)
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/kahang-ngau)
 
+<center><img src="/assets/pics/ME2.jpg" style="width:550px;height:400px;"></center>
 
 ---
 
