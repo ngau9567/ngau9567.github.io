@@ -10,12 +10,11 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 
 
 #### <a name="CurrentPosition"></a>Current Position
-<p>Digital Map Developer / Research Analyst</p><br>
+<p>Currently working as a Digital Map Developer/Research Analyst at a digital mapping projects with 2 PHD students. Responsible for creating interactive maps on ArcGIS with documented locations of China studies’ archival and digital collections in the US and Canada. Performed geocoding with the verified addresses of existing collections.</p><br>
 
 
 #### <a name="PreviousPosition"></a>Previous Positions
-<p>Financial Data Analyst<br>
-Data Reporting Analyst</p><br>
+<p>Spent a year and half working as a Financial Data Analyst in Bloomberg L.P.. Conducted analytical research and applied machine learning skills to make predictions on granular levels of companies’ financial reports and brokers’ forecasting models<br>
 
 
 #### <a name="Education"></a>Ecucation
