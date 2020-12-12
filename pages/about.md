@@ -9,7 +9,7 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 <center><img src="/assets/pics/ME2.jpg" style="width:550px;height:400px;"></center>
 
 
-#### <a name="CurrentPosition"></a>Current Position
+#### <center><a name="CurrentPosition"></a></center>Current Position
 <p>Currently working as a Digital Map Developer/Research Analyst at a digital mapping projects with 2 PHD students. Responsible for creating interactive maps on ArcGIS with documented locations of China studies’ archival and digital collections in the US and Canada. Performed geocoding with the verified addresses of existing collections.</p><br>
 
 
