@@ -6,9 +6,7 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 #### <a name="kahangngau"></a>Kahang Ngau
 
 
-<left><img src="/assets/pics/ME1.jpg" style="width:350px;height:150px;"></left>
-<right><img src="/assets/pics/ME2.jpg" style="width:350px;height:150px;"></right>
-
+<center><img src="/assets/pics/ME2.jpg" style="width:350px;height:150px;"></center>
 
 
 #### <a name="CurrentPosition"></a>Current Position
@@ -23,10 +21,8 @@ Data Reporting Analyst</p><br>
 #### <a name="Education"></a>Ecucation
 <p>George Washington University - May 2022<br>
 MASTER OF SCIENCE (M.S.) in Data Analytics, with a concentration in Computer Science</p><br>
-
 <p>Rutgers University, New Brunswick, NJ - May 2018<br>
 BACHELOR OF ARTS (B.A.) in Information Technology and Economics</p><br>
-
 
 
 #### Links
