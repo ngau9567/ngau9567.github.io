@@ -6,8 +6,8 @@ description: Kahang Ngau is an experienced Data Analyst, with technical-related 
 #### <a name="kahangngau"></a>Kahang Ngau
 
 
-<left><img src="/assets/pics/ME1.jpg" style="width:450px;height:300px;"></left>
-<right><img src="/assets/pics/ME2.jpg" style="width:450px;height:300px;"></right>
+<left><img src="/assets/pics/ME1.jpg" style="width:350px;height:150px;"></left>
+<right><img src="/assets/pics/ME2.jpg" style="width:350px;height:150px;"></right>
 
 
 
