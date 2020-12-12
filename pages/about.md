@@ -3,7 +3,7 @@ layout: page
 title: About ME
 description: Kahang Ngau is an experienced Data Analyst, with technical-related work experience in both FinTech and Healthcare Industry. Seeking to utilize my 3+ years’ experience of data analysis skills on using Python, SQL, Tableau, and R. 
 ---
-<p align="center",font-size: 30px;><b>Kahang Ngau</b></p>
+<p align="center",font-size: 50px;><b>Kahang Ngau</b></p>
 
 #### <a name="CurrentPosition"></a>Current Position
 <p>Currently working as a Digital Map Developer/Research Analyst at a digital mapping projects with 2 PHD students. Responsible for creating interactive maps on ArcGIS with documented locations of China studies’ archival and digital collections in the US and Canada. Performed geocoding with the verified addresses of existing collections.</p><br>
