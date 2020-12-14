@@ -21,8 +21,8 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/iplotCorr.html">
-        <img src="assets/publpics/iplotCorr.png" alt="R/qtlcharts example" title="R/qtlcharts example"/>
+    <a href="pages/publpics/feature_importance.html">
+        <img src="assets/publpics/dt_featureimportance.png" alt="Feature Importances" title="Feature Importances"/>
     </a>
   </td>
   <td class="right">
