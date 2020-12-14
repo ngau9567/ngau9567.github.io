@@ -1,0 +1,22 @@
+---
+layout: frontpage
+date: 12/14/2020
+title: Analysis and Prediction on Time Series
+---
+
+## Time Series Analysis & Prediction
+
+On this page, I picked a stock and downloaded price data. The stock that I pucked was Tesla. We then hen resample data to weekly and monthly prices. Determine if there's any seasonality and train a SARIMA model on it to try and predict future prices.
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ngau9567/ngau9567.github.io/blob/master/assets/EMSE6574/Week9_Assignment.ipynb)
+
+[![HW9 Time Series Prediction](/assets/pics/portfolio_pics/emse6574_hw9_timeseries.png)]({{ BASE_PATH }}/pages/assignments.html#emse6574-assignment9)
+
+<div class="navbar">
+  <div class="navbar-inner">
+      <ul class="nav">
+          <li><a href="seas6401_final_project.html">Previous</a></li>
+          <li><a href="emse6574_hw8_genetic_algo">Next</a></li>
+      </ul>
+  </div>
+</div>
