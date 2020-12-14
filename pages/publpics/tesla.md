@@ -6,7 +6,7 @@ title: Analysis and Prediction on Time Series
 
 ## Time Series Analysis & Prediction
 
-On this page, I picked a stock and downloaded price data. The stock that I pucked was Tesla. We then hen resample data to weekly and monthly prices. Determine if there's any seasonality and train a SARIMA model on it to try and predict future prices.
+On this page, I picked a stock and downloaded price data. The stock that I pucked was Tesla. We then resample data to weekly and monthly prices. Determine if there's any seasonality and train a SARIMA model on it to try and predict future prices.
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ngau9567/ngau9567.github.io/blob/master/assets/EMSE6574/Week9_Assignment.ipynb)
 
