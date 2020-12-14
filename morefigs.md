@@ -6,10 +6,10 @@ title: Kahang Ngau
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
+          <li><a href="{{ BASE_PATH }}/assets/Kahang_Ngau.pdf">cv</a></li>
+          <li><a href="https://github.com/ngau9567">github</a></li>
           <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://www.linkedin.com/in/benjamin-harvey-ph-d-1928839a/">linkedin</a></li>
+          <li><a href="www.linkedin.com/in/kahang-ngau">linkedin</a></li>
       </ul>
   </div>
 </div>
