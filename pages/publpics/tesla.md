@@ -10,7 +10,7 @@ On this page, I picked a stock and downloaded price data. The stock that I pucke
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ngau9567/ngau9567.github.io/blob/master/assets/EMSE6574/Week9_Assignment.ipynb)
 
-[![HW9 Time Series Prediction](/assets/pics/portfolio_pics/emse6574_hw9_timeseries.png)]({{ BASE_PATH }}/pages/assignments.html#emse6574-assignment9)
+[![HW9 Time Series Prediction](/assets/publpics/tesla.PNG)]({{ BASE_PATH }}/pages/EMSE6574.html#emse6574-assignment9)
 
 <div class="navbar">
   <div class="navbar-inner">
