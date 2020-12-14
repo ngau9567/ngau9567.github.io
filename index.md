@@ -22,7 +22,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/feature_importance.html">
-        <img src="assets/publpics/dt_featureimportance.png" alt="Feature Importances" title="Feature Importances"/>
+        <img src="assets/publpics/dt_featureimportance.PNG" alt="Feature Importances" title="Feature Importances"/>
     </a>
   </td>
   <td class="right">
