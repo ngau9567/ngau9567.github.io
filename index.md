@@ -21,7 +21,7 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/Correlation.html">
+    <a href="pages/publpics/corr.html">
         <img src="assets/publpics/corr.PNG" alt="Correlation" title="Correlation" style="width:350px;height:200px;"/>
     </a>
   </td>
