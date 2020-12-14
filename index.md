@@ -27,7 +27,7 @@ keywords: statistics, data analytics
   </td>
   <td class="right">
     <a href="pages/publpics/tesla.html">
-        <img src="assets/publpics/tesla.PNG" alt="Tesla" title="Tesla"/>
+        <img src="assets/publpics/tesla.PNG" alt="Tesla" title="Tesla" style="width:350px;height:200px;"/>
     </a>
   </td>
 </tr>
