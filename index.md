@@ -22,7 +22,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/Correlation.html">
-        <img src="assets/publpics/corr.PNG" alt="Correlation" title="Correlation"/>
+        <img src="assets/publpics/corr.PNG" alt="Correlation" title="Correlation" style="width:350px;height:200px;"/>
     </a>
   </td>
   <td class="right">
@@ -35,7 +35,7 @@ keywords: statistics, data analytics
 <tr>
   <td class="left">
     <a href="pages/publpics/feature_importance.html">
-        <img src="assets/publpics/dt_featureimportance.PNG" alt="Feature Importance" title="Feature Importance"/>
+        <img src="assets/publpics/dt_featureimportance.PNG" alt="Feature Importance" title="Feature Importance" style="width:350px;height:200px;"/>
     </a>
   </td>
   <td class="right">
