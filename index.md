@@ -21,8 +21,8 @@ keywords: statistics, data analytics
 <table class="wide">
 <tr>
   <td class="left">
-    <a href="pages/publpics/feature_importance.html">
-        <img src="assets/publpics/dt_featureimportance.PNG" alt="Feature Importances" title="Feature Importances"/>
+    <a href="pages/publpics/Correlation.html">
+        <img src="assets/publpics/corr.PNG" alt="Correlation" title="Correlation"/>
     </a>
   </td>
   <td class="right">
@@ -34,8 +34,8 @@ keywords: statistics, data analytics
 </tr>
 <tr>
   <td class="left">
-    <a href="pages/publpics/samplemixups_fig7.html">
-        <img src="assets/publpics/samplemixups_fig7.png" alt="Broman et al. (2013) Fig 7" title="Broman et al. (2013) Fig 7"/>
+    <a href="pages/publpics/feature_importance.html">
+        <img src="assets/publpics/dt_featureimportance.PNG" alt="Feature Importance" title="Feature Importance"/>
     </a>
   </td>
   <td class="right">
