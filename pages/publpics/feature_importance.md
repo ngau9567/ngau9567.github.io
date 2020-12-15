@@ -15,7 +15,7 @@ This page shows the results of one of the Machine Learning techniques - Random F
 
 <center><a href="{{ BASE_PATH }}/pages/SEAS6401.html#seas6401-final-project"><img src="/assets/publpics/rf1.PNG" alt="Feature Importance" style="width:450px;height:300px;"></a></center>
 
-<center><a href="{{ BASE_PATH }}/pages/SEAS6401.html#seas6401-final-project"><img src="/assets/publpics/rf2.PNG" alt="Feature Importance" style="width:450px;height:300px;"></a></center>
+<center><a href="{{ BASE_PATH }}/pages/SEAS6401.html#seas6401-final-project"><img src="/assets/publpics/rf2.PNG" alt="Feature Importance" style="width:350px;height:200px;"></a></center>
 
 <div class="navbar">
   <div class="navbar-inner">
