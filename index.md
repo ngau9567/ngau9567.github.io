@@ -10,7 +10,6 @@ keywords: statistics, data analytics
       <ul class="nav">
           <li><a href="https://github.com/ngau9567/ngau9567.github.io/tree/master/assets/Kahang_Ngau.pdf">cv</a></li>
           <li><a href="https://ngau9567.github.io">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
           <li><a href="http://www.linkedin.com/in/kahang-ngau">LinkedIn</a></li>
       </ul>
   </div>
