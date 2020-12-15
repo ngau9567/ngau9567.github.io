@@ -41,8 +41,8 @@ title: Kahang Ngau
 </tr>
 <tr>
     <td class="left">
-        <a href="pages/portfolio_pages/gorilla.html">
-            <img src="assets/pics/portfolio_pics/gorilla.PNG" alt="EMSE 6574 Gorilla" title="EMSE 6574 Gorilla" style="width:325px;height:300px;"/>
+        <a href="pages/publpics/gorilla.html">
+            <img src="assets/publpics/gorilla.PNG" alt="EMSE 6574 Gorilla" title="EMSE 6574 Gorilla" style="width:325px;height:300px;"/>
         </a>
     </td>
 </tr>
