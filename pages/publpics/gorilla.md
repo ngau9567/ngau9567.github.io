@@ -10,9 +10,9 @@ This notebook is from an experiment held by a professor where two groups of clas
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ngau9567/ngau9567.github.io/blob/master/assets/EMSE6574/Week5_Assignment.ipynb)
 
-[![HW4 Gorilla](/assets/publpics/gorilla.PNG)]({{ BASE_PATH }}/pages/assignments.html#emse6574-assignment4)
-[![HW4 Gorilla](/assets/publpics/man.PNG)]({{ BASE_PATH }}/pages/assignments.html#emse6574-assignment4)
-[![HW4 Gorilla](/assets/publpics/women.PNG)]({{ BASE_PATH }}/pages/assignments.html#emse6574-assignment4)
+[![HW4 Gorilla](/assets/publpics/gorilla.PNG)]({{ BASE_PATH }}/pages/EMSE6574.html#emse6574-assignment4)
+[![HW4 Gorilla](/assets/publpics/man.PNG)]({{ BASE_PATH }}/pages/EMSE6574.html#emse6574-assignment4)
+[![HW4 Gorilla](/assets/publpics/women.PNG)]({{ BASE_PATH }}/pages/EMSE6574.html#emse6574-assignment4)
 
 <div class="navbar">
   <div class="navbar-inner">
