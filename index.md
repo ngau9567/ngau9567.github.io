@@ -38,8 +38,8 @@ keywords: statistics, data analytics
     </a>
   </td>
   <td class="right">
-    <a href="pages/publpics/isletc6_fig4.html">
-        <img src="assets/publpics/isletc6_fig4.png" alt="Tian et al. (2015) Fig 4" title="Tian et al. (2015) Fig 4"/>
+    <a href="pages/publpics/knn.html">
+        <img src="assets/publpics/knn.PNG" alt="KNN" title="KNN" style="width:350px;height:200px;"/>
     </a>
   </td>
 </tr>
