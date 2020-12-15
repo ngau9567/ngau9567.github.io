@@ -6,7 +6,7 @@ title: Gorilla Experiment
 
 ## Gorilla Experiment
 
-This notebook is from an experiment held by a professor where two groups of classmates were given the same data. The control group was told nothing about the data, but the test group was given some additional information. The experiment was to see whether having prior information influences what is seen in the data and any hypotheses drawn from the data. What this highlights is the important of exploring the data thoroughly; not only using statistics, but also visualizations. 
+The notebook on this page shows an experiment that was held by the course's professor. The experiement divided the students in the class into 2 groups, the control group and the experiment group. The control group was told nothing about the data, but the test group was given some additional information. The experiment was to see whether having prior information influences what is seen in the data and any hypotheses drawn from the data. And what I learned from this topic was to always go through and understand the dataset thoroughly, by conducting both statistical analysis and data visualization. 
 
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ngau9567/ngau9567.github.io/blob/master/assets/EMSE6574/Week5_Assignment.ipynb)
 
