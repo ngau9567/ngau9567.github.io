@@ -28,8 +28,8 @@ explain and predict the question of interest.
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="seas6401_hw3_capstone.html">Previous</a></li>
-          <li><a href="emse6574_hw9_timeseries.html">Next</a></li>
+          <li><a href="knn.html">Previous</a></li>
+          <li><a href="tesla.html">Next</a></li>
       </ul>
   </div>
 </div>
