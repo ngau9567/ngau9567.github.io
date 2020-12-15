@@ -15,8 +15,8 @@ On this page, I picked a stock and downloaded price data. The stock that I pucke
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="seas6401_final_project.html">Previous</a></li>
-          <li><a href="emse6574_hw8_genetic_algo">Next</a></li>
+          <li><a href="corr.html">Previous</a></li>
+          <li><a href="feature_importance.html">Next</a></li>
       </ul>
   </div>
 </div>
