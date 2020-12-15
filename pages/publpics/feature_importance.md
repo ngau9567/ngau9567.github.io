@@ -1,27 +1,26 @@
 ---
 layout: frontpage
-title: Feature Importances Graph
+date: 12/14/2020
+title: Random Forest on Trending YouTube Video Project
 ---
+
+## Random Forest on Trending YouTube Video Project
+
+This page shows the results of one of the Machine Learning techniques - Random Forest, on the capstone project - Analysis on Prediction of Trending YouTube Video Applying Machine Learning". The graphs show the feature importance of the model, the R-squared, and the feature importance sorting in descending order. The Random Forest Regression model performed the best among the three machine learning models. It has the lowest EMSE and the highest R-squared of 95.6%. 
+
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)][![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)]({{ BASE_PATH }}/assets/SEAS6401/HW5/ML 14 - Capstone Project (1).html) 
+
+<center><a href="{{ BASE_PATH }}/pages/SEAS6401.html#seas6401-final-project"><img src="/assets/publpics/dt_featureimportance.PNG" alt="Feature Importance" style="width:450px;height:300px;"></a></center>
+
+<center><a href="{{ BASE_PATH }}/pages/SEAS6401.html#seas6401-final-project"><img src="/assets/publpics/rf1.PNG" alt="Feature Importance" style="width:450px;height:300px;"></a></center>
+
+<center><a href="{{ BASE_PATH }}/pages/SEAS6401.html#seas6401-final-project"><img src="/assets/publpics/rf2.PNG" alt="Feature Importance" style="width:450px;height:300px;"></a></center>
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="geneticmaps_fig3.html">prev</a></li>
-          <li><a href="tian2016_fig4.html">next</a></li>
+          <li><a href="tesla.html">Previous</a></li>
+          <li><a href="knn.html">Next</a></li>
       </ul>
   </div>
 </div>
-
-[R/qtlcharts](http://kbroman.org/qtlcharts), an R package to create
-interactive data visualizations for QTL data; <br/>
-see Broman (2015) Genetics 199:359-361
-[![PubMed](../icons16/pubmed-icon.png)](http://www.ncbi.nlm.nih.gov/pubmed/25527287)
-[![pdf](../icons16/pdf-icon.png)](https://github.com/ngau9567/assets/MLCapstoneProject.ipynb)
-[![GitHub](../icons16/github-icon.png)](https://github.com/ngau9567/assets/MLCapstoneProject.ipynb)
-
-[![R/qtlcharts example](../../assets/bigpublpics/iplotCorr.png)](http://github.com/ngau9567/panges/publpics/feature_importance.html)
-
-Static view of an [interactive graph](http://kbroman.org/qtlcharts/example/iplotCorr.html)
-from [R/qtlcharts](http://kbroman.org/qtlcharts). The left panel is a heatmap of a correlation
-matrix; click a pixel and the corresponding scatterplot is shown on
-the right.
