@@ -25,7 +25,7 @@ The graph below is one of the steps the was conducted in the stage of Exploritor
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="knn.html">Previous</a></li>
+          <li><a href="gorilla.html">Previous</a></li>
           <li><a href="tesla.html">Next</a></li>
       </ul>
   </div>
