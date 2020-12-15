@@ -16,7 +16,7 @@ This notebook builds different kinds of machine learning algorithms from scratch
   <div class="navbar-inner">
       <ul class="nav">
           <li><a href="feature_importance.html">Previous</a></li>
-          <li><a href="emse6574_hw4_gorilla.html">Next</a></li>
+          <li><a href="corr.html">Next</a></li>
       </ul>
   </div>
 </div>
