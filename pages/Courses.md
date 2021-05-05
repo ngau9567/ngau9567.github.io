@@ -8,18 +8,18 @@ description: Kahang Ngau's Assignment and Project Submissions
 
 This page contains links to the courses taken at GWU and beyond. Use the navigation bar above to go to a particular class. Info on when the class was taken and what professor taught which course can be found in the table below.
 
- Class    | | | Name                          | | | Professor             | | | Time 
- :------: | | | :-------------------------:   | | | :-------------------: | | | :-------:
- SEAS 6401| | | Data Analytics Found/Practicum| | | Prof. Benjamin Harvey | | | Fall 2020
- EMSE 6574| | | Programming for Analytics     | | | Prof. Maksim Tsvetovat| | | Fall 2020
- CSCI 6216| | | Design & Analysis of Algorithm| | | Prof. Abdou Youssef   | | | Fall 2020
- :------: | | | :-------------------------:   | | | :-------------------: | | | :-------:
- EMSE 6765| | | Data Analysis for Eng & Sci   | | | Prof. J. Rene Van Dorp| | | Spring 2021
- EMSE 6586| | | Database Mgmt for Data Analyts| | | Prof. Joel Klein      | | | Spring 2021
- EMSE 6575| | | Applied Machine Lrn Analytcs  | | | Prof. Maksim Tsvetovat| | | Spring 2021
- :------: | | | :-------------------------:   | | | :-------------------: | | | :-------:
- CSCI 6444| | | Intro. to Big Data & Analytics| | | Prof.                 | | | Summer 2021
- EMSE 6801| | | Systems Engineering I         | | | Prof.                 | | | Summer 2021
+Class    | | | Class Name                    | | | Professor             | | | Time 
+:-------:| | | :----------------------------:| | | :--------------------:| | | :-------:
+SEAS 6401| | | Data Analytics Found/Practicum| | | Prof. Benjamin Harvey | | | Fall 2020
+EMSE 6574| | | Programming for Analytics     | | | Prof. Maksim Tsvetovat| | | Fall 2020
+CSCI 6216| | | Design & Analysis of Algorithm| | | Prof. Abdou Youssef   | | | Fall 2020
+:-------:| | | :----------------------------:| | | :--------------------:| | | :-------:
+EMSE 6765| | | Data Analysis for Eng & Sci   | | | Prof. J. Rene Van Dorp| | | Spring 2021
+EMSE 6586| | | Database Mgmt for Data Analyts| | | Prof. Joel Klein      | | | Spring 2021
+EMSE 6575| | | Applied Machine Lrn Analytcs  | | | Prof. Maksim Tsvetovat| | | Spring 2021
+:-------:| | | :----------------------------:| | | :--------------------:| | | :-------:
+CSCI 6444| | | Intro. to Big Data & Analytics| | | Prof.                 | | | Summer 2021
+EMSE 6801| | | Systems Engineering I         | | | Prof.                 | | | Summer 2021
 
 ---
 
