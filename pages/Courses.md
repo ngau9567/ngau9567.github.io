@@ -9,6 +9,7 @@ description: Kahang Ngau's Assignment and Project Submissions
 This page contains links to the courses taken at GWU and beyond. Use the navigation bar above to go to a particular class. Info on when the class was taken and what professor taught which course can be found in the table below.
 
 ---
+
 Class    | | | Class Name                    | | | Professor             | | | Time 
 :-------:| | | :----------------------------:| | | :--------------------:| | | :-------:
 SEAS 6401| | | Data Analytics Found/Practicum| | | Prof. Benjamin Harvey | | | Fall 2020
