@@ -35,6 +35,27 @@
                     <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
                     <ul class="nav">
                       <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
+                      <li>
+                        <ul class="dropdown">
+                          <li>
+                            <a href="#">Portfolio</a>
+                            <ul class="dropdown-content">
+                              <li>
+                                <a href="{{ BASE_PATH }}/pages/assignments.html">Class Assignments</a>
+                                <ul class="dropdown-subcontent-level-1">
+                                  <li>
+                                    <a href="{{ BASE_PATH }}/pages/assignments.html#GWU">The George Washington University</a>
+                                    <ul class="dropdown-subcontent-level-2">
+                                      <li><a href="{{ BASE_PATH }}/pages/assignments.html#seas6401">SEAS 6401</a></li>
+                                      <li><a href="{{ BASE_PATH }}/pages/assignments.html#emse6574">EMSE 6574</a></li>
+                                    </ul>
+                                  </li>
+                                </ul>
+                              </li>
+                            </ul>
+                          </li>
+                        </ul>
+                      </li>
                       <li><a href="{{ BASE_PATH }}/pages/SEAS6401.html">SEAS 6401</a></li>
                       <li><a href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574</a></li>
                       <li><a href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212</a></li>
