@@ -27,7 +27,7 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
    </head>
-  
+    
   <body>
         <div class="navbar">
             <div class="navbar-inner">
@@ -52,32 +52,32 @@
                                   </li>
                                 </ul>
                               </li>
+                              <li><a href="{{ BASE_PATH }}/pages/SEAS6401.html">SEAS 6401</a></li>
+                              <li><a href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574</a></li>
+                              <li><a href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212</a></li>
+                              <li><a href="{{ BASE_PATH }}/pages/EMSE6765.html">EMSE 6765</a></li> 
+                              <li><a href="{{ BASE_PATH }}/pages/presentations.html">Presentation</a></li>
+                              <li><a href="{{ BASE_PATH }}/pages/software.html">Software</a></li> 
                             </ul>
                           </li>
                         </ul>
-                      </li>
-                      <li><a href="{{ BASE_PATH }}/pages/SEAS6401.html">SEAS 6401</a></li>
-                      <li><a href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574</a></li>
-                      <li><a href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212</a></li>
-                      <li><a href="{{ BASE_PATH }}/pages/EMSE6765.html">EMSE 6765</a></li> 
-                      <li><a href="{{ BASE_PATH }}/pages/presentations.html">Presentation</a></li>
-                      <li><a href="{{ BASE_PATH }}/pages/software.html">Software</a></li>   
+                      </li>  
                     </ul>
                 </div>
             </div>
         </div>
 
-    <div class="container-narrow">
+        <div class="container-narrow">
 
-      <div class="content">
-        {{ content }}
-      </div>
+          <div class="content">
+            {{ content }}
+          </div>
 
-      <hr>
+          <hr>
 
-    </div>
+        </div>
 
-    
-     {% include JB/analytics %}
+
+         {% include JB/analytics %}
   </body>
 </html>
