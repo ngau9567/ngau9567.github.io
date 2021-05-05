@@ -29,56 +29,56 @@
    </head>
     
   <body>
-        <div class="navbar">
-            <div class="navbar-inner">
-                <div class="container-narrow">
-                    <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-                    <ul class="nav">
-                      <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container-narrow">
+                <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+                <ul class="nav">
+                  <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
+                  <li>
+                    <ul class="dropdown">
                       <li>
-                        <ul class="dropdown">
+                        <a href="#">Portfolio</a>
+                        <ul class="dropdown-content">
                           <li>
-                            <a href="#">Portfolio</a>
-                            <ul class="dropdown-content">
+                            <a href="{{ BASE_PATH }}/pages/assignments.html">Class Assignments</a>
+                            <ul class="dropdown-subcontent-level-1">
                               <li>
-                                <a href="{{ BASE_PATH }}/pages/assignments.html">Class Assignments</a>
-                                <ul class="dropdown-subcontent-level-1">
-                                  <li>
-                                    <a href="{{ BASE_PATH }}/pages/assignments.html#GWU">The George Washington University</a>
-                                    <ul class="dropdown-subcontent-level-2">
-                                      <li><a href="{{ BASE_PATH }}/pages/assignments.html#seas6401">SEAS 6401</a></li>
-                                      <li><a href="{{ BASE_PATH }}/pages/assignments.html#emse6574">EMSE 6574</a></li>
-                                    </ul>
-                                  </li>
+                                <a href="{{ BASE_PATH }}/pages/assignments.html#GWU">The George Washington University</a>
+                                <ul class="dropdown-subcontent-level-2">
+                                  <li><a href="{{ BASE_PATH }}/pages/assignments.html#seas6401">SEAS 6401</a></li>
+                                  <li><a href="{{ BASE_PATH }}/pages/assignments.html#emse6574">EMSE 6574</a></li>
                                 </ul>
                               </li>
-                              <li><a href="{{ BASE_PATH }}/pages/SEAS6401.html">SEAS 6401</a></li>
-                              <li><a href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574</a></li>
-                              <li><a href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212</a></li>
-                              <li><a href="{{ BASE_PATH }}/pages/EMSE6765.html">EMSE 6765</a></li> 
-                              <li><a href="{{ BASE_PATH }}/pages/presentations.html">Presentation</a></li>
-                              <li><a href="{{ BASE_PATH }}/pages/software.html">Software</a></li> 
                             </ul>
                           </li>
+                          <li><a href="{{ BASE_PATH }}/pages/SEAS6401.html">SEAS 6401</a></li>
+                          <li><a href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574</a></li>
+                          <li><a href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212</a></li>
+                          <li><a href="{{ BASE_PATH }}/pages/EMSE6765.html">EMSE 6765</a></li> 
+                          <li><a href="{{ BASE_PATH }}/pages/presentations.html">Presentation</a></li>
+                          <li><a href="{{ BASE_PATH }}/pages/software.html">Software</a></li> 
                         </ul>
-                      </li>  
+                      </li>
                     </ul>
-                </div>
+                  </li>  
+                </ul>
             </div>
         </div>
+    </div>
 
-        <div class="container-narrow">
+    <div class="container-narrow">
 
-          <div class="content">
-            {{ content }}
-          </div>
+      <div class="content">
+        {{ content }}
+      </div>
 
-          <hr>
+      <hr>
 
-        </div>
+    </div>
 
 
-        {% include JB/analytics %}
+    {% include JB/analytics %}
     
   </body>
 </html>
