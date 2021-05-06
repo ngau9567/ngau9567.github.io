@@ -45,6 +45,13 @@ Introduction to programming for data analytics using the Python programming lang
 
 ---
 
+### <a href="{{ BASE_PATH }}/pages/EMSE6586.html">EMSE 6586 - DBMS for Data Analytics</a>
+
+##### Course Description
+Study and design of database and data management systems for big data and data analytics; design of relational database systems and the SQL query language; NoSQL databases for unstructured data, including key-value, distributed table, graph databases, parallel processing databases. 
+
+---
+
 ### <a href="{{ BASE_PATH }}/pages/EMSE6765.html">EMSE 6765 - Data Analysis for Engineering & Science</a>
 
 ##### Course Description
