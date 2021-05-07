@@ -45,6 +45,13 @@ Introduction to programming for data analytics using the Python programming lang
 
 ---
 
+### <a href="{{ BASE_PATH }}/pages/EMSE6575.html">EMSE 6575 - Applied Machine Learning for Analytics</a>
+
+##### Course Description
+Methods and techniques for discovering patterns and relationships in aggregated data, with practical focus on engineering problems. Tools, techniques, and methods explored in the context of their application.
+
+---
+
 ### <a href="{{ BASE_PATH }}/pages/EMSE6586.html">EMSE 6586 - DBMS for Data Analytics</a>
 
 ##### Course Description
