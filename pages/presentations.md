@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Presentations
-description: Kahang Ngau's Presentations in Data Analytics
+title: Publications
+description: Kahang Ngau's Publication works in Data Analytics
 ---
 
 
