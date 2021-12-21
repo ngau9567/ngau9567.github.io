@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Kahang Ngau
-description: Kahang Ngau is an experienced Data Analyst, with technical-related work experience in both FinTech and Healthcare Industry. Seeking to utilize my 3+ years’ experience of data analysis skills on using Python, SQL, Tableau, and R.
+description: Kahang Ngau is a detail-oriented data science professional with 2+ years of working experience in statistical analytics and machine learning techniques. Looking for a data scientist role to utilize my analytical and programming skills for the creation of data insights.
 keywords: statistics, data analytics
 ---
 
