@@ -21,10 +21,12 @@ EMSE 6575| | | Applied Machine Lrn Analytcs  | | | Prof. Maksim Tsvetovat| | | S
 CSCI 6444| | | Intro. to Big Data & Analytics| | | Prof.                 | | | Summer 2021
 EMSE 6801| | | Systems Engineering I         | | | Prof.                 | | | Summer 2021
 
+<li><a href="#emse6574-assignment1">1</a></li>
+
 ---
 
 ---
-### <a href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212 - Design and Analysis of Algorithms</a>
+### <a name="emse6574-assignment1" href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212 - Design and Analysis of Algorithms</a>
 
 ##### Course Description
 Design and analysis of algorithms; Turing machines; NP-complete theory; algorithmic techniques: divide-and-conquer, greedy, dynamic programming, graph traversal, backtracking, and branch-and-bound; applications include sorting and searching, graph algorithms, and optimization.
