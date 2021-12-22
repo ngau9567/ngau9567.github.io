@@ -4,8 +4,23 @@ title: Publications
 description: Kahang Ngau's Publication works in Data Analytics
 ---
 
+### 2021
+---
+
+<div class="dropdown">
+  <button class="dropbtn">Dropdown</button>
+  <div class="dropdown-content">
+    <a href="#">Link 1</a>
+    <a href="#">Link 2</a>
+    <a href="#">Link 3</a>
+  </div>
+</div>
+
+#### 
+
 
 ###  2020
+---
 
 #### SEAS 6401 Final Project: Prodiction on Trending YouTube Video Project
 ##### <a name="MachineLearningCapstoneProject"></a>Machine Learning Capstone Project
