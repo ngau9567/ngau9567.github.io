@@ -66,7 +66,7 @@ Then, we created interactive maps and useful browsing functions in Tableau and A
 * [![Tableau](https://img.shields.io/badge/Tableau-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://libguides.gwu.edu/c.php?g=931371&p=8769911)
 
 ##### ArcGIS
-* [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://libguides.gwu.edu/c.php?g=931371&p=8769911)
+* [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://libguides.gwu.edu/c.php?g=931371&p=8769382)
 
 <p>Develop a web-based application to allow users to interact with the database of collections, along with map visualization of collections’ locations. Design and implement multiple advanced searching functions in Python using Streamlit.</p>
 
