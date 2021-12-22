@@ -49,8 +49,7 @@ display: block;
 <a href="#">Fall 2021</a>
 </div>
 </div>
-</body>
-</html>
+
 
 ---
 ---
@@ -124,10 +123,13 @@ Study and design of database and data management systems for big data and data a
 ##### Course Description
 <p>This course is an introductory course that will cover a lot of topics in Big Data and Analytics.</p>
 <p>The objectives are:</p>
-<li>To introduce students to some of the concepts, issues and challenges in dealing with Big Data.</li>
-<li>To examine the types of analytics and work with a few of the tools to process some relatively Big Data sets.</li>
-<li>To understand the type of advanced analytics beyond simple statistical analysis, data mining, and statistical machine learning which address complex problems facing business, society, science and engineering today.</li>
-<li>To describe the roles of data scientist and analytic scientist</li>
-<li>To practice some of the techniques through class projects.</li>
-
+<ul>
+       <li>To introduce students to some of the concepts, issues and challenges in dealing with Big Data.</li>
+       <li>To examine the types of analytics and work with a few of the tools to process some relatively Big Data sets.</li>
+       <li>To understand the type of advanced analytics beyond simple statistical analysis, data mining, and statistical machine learning which address complex problems facing business, society, science and engineering today.</li>
+       <li>To describe the roles of data scientist and analytic scientist</li>
+       <li>To practice some of the techniques through class projects.</li>
+</ul>
 ---
+</body>
+</html>
