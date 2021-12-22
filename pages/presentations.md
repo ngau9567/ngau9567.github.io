@@ -7,7 +7,22 @@ description: Kahang Ngau's Publication works in Data Analytics
 ### 2021
 <br/>&nbsp; &nbsp; &nbsp; 
 
-####  
+### Classification on Secondhand Smoke Exposure Using Machine Learning Models
+*on Dec 2021*
+##### <a name="MachineLearningCapstoneProject"></a>Project Summary
+<p>Racial and socioeconomic disparities play a critical role in stark health disparities. Prior study suggests secondhand smoke (SHS) is one of the greatest factors contributing to diseases and harming human bodies.</p>
+<p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project.The purpose of this project is to use different statistical and machine learning classification models to predict whether non-smokers are heavily exposed by SHS or not. And to choose the best model with lowest RMSE and highest AUROC score.</p>
+<p>The project has the folloing steps:</p>
+<ul>
+  <li>Implemented statistical and ML regression models to classify people are in minor SHS exposure or not in R and R-Markdown.</li> 
+  <li>Performed EDA, data visualization, train-test split, and model iterations.</li> 
+  <li>Built different statistical and machine learning models, including GLM, Random Forest, and XGBoost with hyperparameter tuning.</li> 
+  <li>BInterpreted the model results and selected the best model with the lowest RMSE and highest AUCROC score.</li>
+</ul>
+<br>
+
+##### Publication in RPubs
+[![R-Markdown](https://www.r-project.org/logo/Rlogo.svg)](https://rpubs.com/steven9567/849228)
 
 <br/>&nbsp; &nbsp; &nbsp; 
 
@@ -16,7 +31,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 ###  2020
 <br/>&nbsp; &nbsp; &nbsp; 
 ### Prodiction on YouTube Video Likes in PySpark
-*by Dec 2020*
+*on Dec 2020*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
 <p>We targeted a broad range of audience, basically anyone who is interested in the topic. Ideally, we wanted to show the process of using big data and build the model to explain and predict the question of interest. The project has the folloing steps:</p>
@@ -27,6 +42,7 @@ description: Kahang Ngau's Publication works in Data Analytics
   <li>Built model pipeline with data transformation and k-fold cross-validation.</li> 
   <li>Performed hyperparameter tuning in Decision Tree & RF models.</li>
 </ul>
+<br>
 
 ##### PySpark code
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/ngau9567/ngau9567.github.io/blob/master/assets/ML14-CapstoneProject(1).ipynb)
@@ -41,7 +57,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 ---
 
 ### Calories Prediction Using Recipe Ingredients
-*by Dec 2020*
+*on Dec 2020*
 ##### Project Summary
 <p>For this class project, we are trying to create two models to predict the type of cuisine and the amount of calories from a list of ingredients. The project goals are the followings:</p>
 
