@@ -15,8 +15,8 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ###  2020
 <br/>&nbsp; &nbsp; &nbsp; 
-#### Prodiction on YouTube Video Likes in PySpark
-#### Dec 2020
+### Prodiction on YouTube Video Likes in PySpark
+**by Dec 2020**
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
 <p>We targeted a broad range of audience, basically anyone who is interested in the topic. Ideally, we wanted to show the process of using big data and build the model to explain and predict the question of interest. The project has the folloing steps:</p>
@@ -40,8 +40,8 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
-#### Calories Prediction Using Recipe Ingredients
-#### Dec 2020
+### Calories Prediction Using Recipe Ingredients
+*by Dec 2020*
 ##### Project Summary
 <p>For this class project, we are trying to create two models to predict the type of cuisine and the amount of calories from a list of ingredients. The project goals are the followings:</p>
 
