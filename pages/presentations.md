@@ -11,7 +11,8 @@ description: Kahang Ngau's Publication works in Data Analytics
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>Racial and socioeconomic disparities play a critical role in stark health disparities. Prior study suggests secondhand smoke (SHS) is one of the greatest factors contributing to diseases and harming human bodies.</p>
-<p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project.The purpose of this project is to use different statistical and machine learning classification models to predict whether non-smokers are heavily exposed by SHS or not. And to choose the best model with lowest RMSE and highest AUROC score.</p>
+<p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project.</p>
+<p>The purpose of this project is to use different statistical and machine learning classification models to predict whether non-smokers are heavily exposed by SHS or not. And to choose the best model with lowest RMSE and highest AUROC score.</p>
 <p>The project has the folloing steps:</p>
 <ul>
   <li>Implemented statistical and ML regression models to classify people are in minor SHS exposure or not in R and R-Markdown.</li> 
@@ -22,7 +23,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 <br>
 
 ##### Publication in RPubs
-[![R-Markdown](https://www.r-project.org/logo/Rlogo.svg)](https://rpubs.com/steven9567/849228)
+[![R-Markdown](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/steven9567/849228)
 
 <br/>&nbsp; &nbsp; &nbsp; 
 
