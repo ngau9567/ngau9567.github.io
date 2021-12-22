@@ -16,7 +16,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 ###  2020
 <br/>&nbsp; &nbsp; &nbsp; 
 ### Prodiction on YouTube Video Likes in PySpark
-**by Dec 2020**
+*by Dec 2020*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
 <p>We targeted a broad range of audience, basically anyone who is interested in the topic. Ideally, we wanted to show the process of using big data and build the model to explain and predict the question of interest. The project has the folloing steps:</p>
@@ -53,6 +53,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 </ul>
 
 <p>With these two models, we then create a web application so people can play around with it. The app was created using Streamlit and hosted with Streamlit Sharing. To see the app, click the Streamlit badge below.</p>
+</br>
 
 ##### Web-App in Streamlit
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
