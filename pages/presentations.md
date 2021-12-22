@@ -7,37 +7,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 ### 2021
 ---
 
-<!DOCTYPE html>
 <html>
-  <head>
-    <style>
-    .dropdownbtn {
-    background-color: black;
-    color: white;
-    padding: 12px;
-    font-size: 12px;
-    }
-    .dropdowndemo{
-    position:fixed;
-    display: block;
-    }
-    .dropdownlist-content {
-    display: none;
-    position: absolute;
-    background-color: greenyellow;
-    min-width: 120px;
-    z-index: 1;
-    }
-    .dropdownlist-content a {
-    color: darkblue;
-    padding: 14px 18px;
-    display: block;
-    }
-    .dropdownlist-content a:hover {background-color: lightcyan;}
-    .dropdowndemo:hover .dropdownlist-content {display: block;}
-    .dropdowndemo:hover .dropdownbtn {background-color: blue;}
-    </style>
-  </head>
   <body>
     <h2>Hover Dropdown Demo</h2>
     <div class="dropdowndemo">
