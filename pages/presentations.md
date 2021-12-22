@@ -53,7 +53,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 </ul>
 
 <p>With these two models, we then create a web application so people can play around with it. The app was created using Streamlit and hosted with Streamlit Sharing. To see the app, click the Streamlit badge below.</p>
-</br>
+<br>
 
 ##### Web-App in Streamlit
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/msalceda/emse-6574-final-project/main/final_project_app.py)
