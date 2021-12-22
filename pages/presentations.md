@@ -52,7 +52,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 #### Text Analysis on Chinese Digital Collections Using Twitter Tweets
 *Oct 2020 - Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>Perform NLP in Python to search keywords and to gather digital collection links from Twitter tweets. The twitter tweets were gathered from Social Feed Manager from the George Washington University's library. The following codes are conducted in Python to perform text analysis in NLP.</p>
+<p>First, we performed NLP in Python to search keywords and to gather digital collection links from Twitter tweets. The twitter tweets were gathered from Social Feed Manager from the George Washington University's library. The following codes are conducted in Python to perform text analysis in NLP.</p>
 
 ##### Python Code - getting most frequently used hashtags
 * [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ngau9567/ngau9567.github.io/blob/master/assets/DigitalCollection/Text_Analysis_TwitterData.ipynb)
@@ -60,7 +60,9 @@ description: Kahang Ngau's Publication works in Data Analytics
 ##### Python Code - text analysis on Twitter tweets
 * [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/ngau9567/ngau9567.github.io/blob/master/assets/DigitalCollection/SFM.ipynb)
 
-Then, we created interactive maps and useful browsing functions in Tableau and ArcGIS with detailed information of collections.</p>
+<br>
+
+<p>Then, we created interactive maps and useful browsing functions in Tableau and ArcGIS with detailed information of collections.</p>
 
 ##### Tableau
 * [![Tableau](https://img.shields.io/badge/Tableau-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://libguides.gwu.edu/c.php?g=931371&p=8769911)
@@ -68,17 +70,21 @@ Then, we created interactive maps and useful browsing functions in Tableau and A
 ##### ArcGIS
 * [![ArcGIS](https://img.shields.io/badge/ArcGIS-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://libguides.gwu.edu/c.php?g=931371&p=8769382)
 
-<p>Develop a web-based application to allow users to interact with the database of collections, along with map visualization of collections’ locations. Design and implement multiple advanced searching functions in Python using Streamlit.</p>
+<br>
+
+<p>Finally, we developed a web-based application to allow users to interact with the database of collections, along with map visualization of collections’ locations. Design and implement multiple advanced searching functions in Python using Streamlit.</p>
 
 ##### Web-App in Streamlit
 * **Version One**
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ngau9567/map/main/map_0203.py)
 
-* **Version Two - with a updated in using function 'Session State'**
+* **Version Two - with an updated in using function 'Session State'**
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ngau9567/map/main/map_0304.py)
 
 
 <br/>&nbsp; &nbsp; &nbsp; 
+
+<center><a href="#top">Back to Top</a></center>
 
 ---
 
