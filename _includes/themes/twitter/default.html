@@ -27,91 +27,37 @@
         <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
         <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
 
-        <script type="text/javascript">
-            function setAccessedDate() {
-                if (document.getElementById('accessed-on')) {
-                    var now = new Date();
-                    var months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-                    var formattedDate = now.getDate().padStart(2,'0')+" "+months[now.getMonth()]+" "+now.getFullYear();
-                    document.getElementById('accessed-on').textContent = " (accessed " + formattedDate + ")";
-                } 
-            }
-            function setModifiedDate() {
-                if (document.getElementById('last-modified')) {
-                    fetch("https://api.github.com/repos/{{ site.github.owner_name }}/{{ site.github.repository_name }}/commits?path={{ page.path }}")
-                    .then((response) => {
-                        return response.json();
-                    })
-                    .then((commits) => {
-                        var modified = commits[0]['commit']['committer']['date'].slice(0,10);
-                        if(modified != "{{ page.date | date: "%Y-%m-%d" }}") {
-                            document.getElementById('last-modified').textContent = "Last Modified: " + modified;
-                        }
-                    });
-                }
-            }
-        </script>
-    </head>
-
-    <body onload="setModifiedDate(); setAccessedDate();">
-        <div class="navbar">
-            <div class="navbar-inner">
-                <div class="container-narrow">
-                    <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-                    <ul class="nav">
-                            <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
-                            <li>
-                                <ul class="dropdown">
-                                    <li>
-                                        <a href="#">Portfolio</a>
-                                        <ul class="dropdown-content">
-                                            <li>
-                                                <a href="{{ BASE_PATH }}/pages/assignments.html">Class Assignments</a>
-                                                <ul class="dropdown-subcontent-level-1">
-                                                    <li>
-                                                        <a href="{{ BASE_PATH }}/pages/assignments.html#GWU">The George Washington University</a>
-                                                        <ul class="dropdown-subcontent-level-2">
-                                                            <li><a href="{{ BASE_PATH }}/pages/assignments.html#seas6401">SEAS 6401</a></li>
-                                                            <li><a href="{{ BASE_PATH }}/pages/assignments.html#emse6574">EMSE 6574</a></li>
-                                                        </ul>
-                                                    </li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="{{ BASE_PATH }}/pages/presentations.html">Presentations</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                            <!-- <li><a href="{{ BASE_PATH }}/pages/pubs.html">publications</a></li> -->
-                            <li>
-                                <ul class="dropdown">
-                                    <li>
-                                        <a href="#">Data Science Toolkit</a>
-                                        <ul class="dropdown-content">
-                                            <li><a href="{{ BASE_PATH }}/pages/resources.html">Resources</a></li>
-                                            <li><a href="{{ BASE_PATH }}/pages/software.html">Software & Packages</a></li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>
-                    </ul>
-                </div>
+   </head>
+    
+  <body>
+    <div class="navbar">
+        <div class="navbar-inner">
+            <div class="container-narrow">
+                <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+                <ul class="nav">
+                  <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
+                  <li><a href="{{ BASE_PATH }}/pages/Courses.html">Courses</a></li> 
+                  <li><a href="{{ BASE_PATH }}/pages/presentations.html">Publication</a></li>
+                  <li><a href="{{ BASE_PATH }}/pages/software.html">Software</a></li>        
+                </ul>
             </div>
         </div>
+    </div>
 
-        <div class="container-narrow">
+    <div class="container-narrow">
 
-            <div class="content">
-                {{ content }}
-            </div>
+      <div class="content">
+        {{ content }}
+      </div>
 
-            <hr>
+      <hr>
 
-        </div>
+    </div>
 
-        {% include JB/analytics %}
-        <div id="footer">
-            {% include themes/twitter/footer.html %}
-        </div>
-    </body>
+
+    {% include JB/analytics %}
+    <div id="footer">
+        {% include themes/twitter/footer.html %}
+    </div>
+  </body>
 </html>
