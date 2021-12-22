@@ -31,17 +31,18 @@
     
   <body>
     <div class="navbar">
-        <div class="navbar-inner">
-            <div class="container-narrow">
-                <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
-                <ul class="nav">
-                  <li><a href="{{ BASE_PATH }}/pages/about.html">About Me</a></li>
-                  <li><a href="{{ BASE_PATH }}/pages/Courses.html">Courses</a></li> 
-                  <li><a href="{{ BASE_PATH }}/pages/presentations.html">Publication</a></li>
-                  <li><a href="{{ BASE_PATH }}/pages/software.html">Software</a></li>        
-                </ul>
+        <a href="#home">Home</a>
+        <a href="#news">News</a>
+        <div class="dropdown">
+            <button class="dropbtn" onclick="myFunction()">Dropdown
+                <i class="fa fa-caret-down"></i>
+            </button>
+            <div class="dropdown-content" id="myDropdown">
+                <a href="#">Link 1</a>
+                <a href="#">Link 2</a>
+                <a href="#">Link 3</a>
             </div>
-        </div>
+       </div> 
     </div>
 
     <div class="container-narrow">
