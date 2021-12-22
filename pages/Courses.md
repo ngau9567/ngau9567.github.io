@@ -9,6 +9,52 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 
 ---
 
+<html>
+<head>
+<style>
+.dropdownbtn {
+background-color: black;
+color: white;
+padding: 12px;
+font-size: 12px;
+}
+.dropdowndemo{
+position:fixed;
+display: block;
+}
+.dropdownlist-content {
+display: none;
+position: absolute;
+background-color: greenyellow;
+min-width: 120px;
+z-index: 1;
+}
+.dropdownlist-content a {
+color: darkblue;
+padding: 14px 18px;
+display: block;
+}
+.dropdownlist-content a:hover {background-color: lightcyan;}
+.dropdowndemo:hover .dropdownlist-content {display: block;}
+.dropdowndemo:hover .dropdownbtn {background-color: blue;}
+</style>
+</head>
+<body>
+<div class="dropdowndemo">
+<button class="dropdownbtn">HTML forms Element</button>
+<div class="dropdownlist-content">
+<a href="#Fall 2020">Fall 2020</a>
+<a href="#">Spring 2021</a>
+<a href="#">Summer 2021</a>
+<a href="#">Fall 2021</a>
+</div>
+</div>
+</body>
+</html>
+
+---
+---
+
 Class    | | | Class Name                    | | | Professor             | | | Time 
 :-------:| | | :----------------------------:| | | :--------------------:| | | :-------:
 Fall 2020
@@ -27,6 +73,8 @@ Summer 2021
 ---
 
 ---
+### <a name="Fall 2020">Fall 2020</a>
+       
 ### <a name="course3" href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212 - Design and Analysis of Algorithms</a>
 
 ##### Course Description
