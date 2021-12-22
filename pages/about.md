@@ -11,7 +11,7 @@ description: Introduction of Kahang Ngau
 <br>
 
 
-#### <a name="PreviousPosition"></a>Previous Work Experience
+#### <a name="PreviousPosition"></a>Prefessional Work Experience
 <p>Before entering the graduate study, Kahang have worked as a data analyst for 2 years. His most recent work experience was working as a financial data analyst in Bloomberg starting in 2019. His responsibility was to analyze financial metrics and to provide meaningful insights by conducting quantitative analysis and visualization. He also developed automation in the script to better quality assurance the financial data and to improve technical workflow in the projects.</p>
 <br>
 
