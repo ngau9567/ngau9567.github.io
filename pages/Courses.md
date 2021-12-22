@@ -8,50 +8,6 @@ description: Kahang Ngau's Assignment and Project Submissions
 This page contains links to the courses taken at GWU and beyond. Use the navigation bar above to go to a particular class. Info on when the class was taken and what professor taught which course can be found in the table below.
 
 ---
-
-<html>
-<head>
-<style>
-.dropdownbtn {
-background-color: black;
-color: white;
-padding: 12px;
-font-size: 12px;
-}
-.dropdowndemo{
-position:fixed;
-display: block;
-}
-.dropdownlist-content {
-display: none;
-position: absolute;
-background-color: greenyellow;
-min-width: 120px;
-z-index: 1;
-}
-.dropdownlist-content a {
-color: darkblue;
-padding: 14px 18px;
-display: block;
-}
-.dropdownlist-content a:hover {background-color: lightcyan;}
-.dropdowndemo:hover .dropdownlist-content {display: block;}
-.dropdowndemo:hover .dropdownbtn {background-color: blue;}
-</style>
-</head>
-<body>
-<div class="dropdowndemo">
-<button class="dropdownbtn">HTML forms Element</button>
-<div class="dropdownlist-content">
-<a href="#Fall 2020">Fall 2020</a>
-<a href="#">Spring 2021</a>
-<a href="#">Summer 2021</a>
-<a href="#">Fall 2021</a>
-</div>
-</div>
-
-
----
 ---
 
 Class    | | | Class Name                    | | | Professor             | | | Time 
@@ -131,5 +87,4 @@ Study and design of database and data management systems for big data and data a
        <li>To practice some of the techniques through class projects.</li>
 </ul>
 ---
-</body>
-</html>
+
