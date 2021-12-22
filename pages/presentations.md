@@ -12,7 +12,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 ---
 <br>
 
-### Classification on Secondhand Smoke Exposure Using Machine Learning Models
+#### Classification on Secondhand Smoke Exposure Using Machine Learning Models
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project.</p>
@@ -35,7 +35,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
-### Evaluation on Public Policy Intervention Using Interrupted with Time Series Regression
+#### Evaluation on Public Policy Intervention Using Interrupted with Time Series Regression
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>In this project, I introduceD the use of interrupt with time series regression method on a realworld example of public intervention. I first highlighted the causal inference of the topic in the project, including the proposed cause and the proposed effect.</p>
@@ -49,7 +49,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
-### Text Analysis on Chinese Digital Collections Using Twitter Tweets
+#### Text Analysis on Chinese Digital Collections Using Twitter Tweets
 *Oct 2020 - Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>Perform NLP in Python to search keywords and to gather digital collection links from Twitter tweets. The twitter tweets were gathered from Social Feed Manager from the George Washington University's library. The following codes are conducted in Python to perform text analysis in NLP.</p>
@@ -82,7 +82,7 @@ Then, we created interactive maps and useful browsing functions in Tableau and A
 
 ---
 
-### Prodiction on YouTube Video Likes in PySpark
+#### Prodiction on YouTube Video Likes in PySpark
 *on Dec 2020*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
@@ -107,7 +107,7 @@ Then, we created interactive maps and useful browsing functions in Tableau and A
 
 ---
 
-### Calories Prediction Using Recipe Ingredients
+#### Calories Prediction Using Recipe Ingredients
 *on Dec 2020*
 ##### Project Summary
 <p>For this class project, we are trying to create two models to predict the type of cuisine and the amount of calories from a list of ingredients. The project goals are the followings:</p>
