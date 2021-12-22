@@ -7,22 +7,6 @@ description: Kahang Ngau's Publication works in Data Analytics
 ### 2021
 ---
 
-<html>
-  <body>
-    <h2>Hover Dropdown Demo</h2>
-    <div class="dropdowndemo">
-      <button class="dropdownbtn">HTML forms Element</button>
-      <div class="dropdownlist-content">
-        <a href="#">Links</a>
-        <a href="#">Dropdown list</a>
-        <a href="#">Input Field</a>
-        <a href="#">Button</a>
-        <a href="#">Radio Buttons</a>
-      </div>
-     </div>
-  </body>
-</html>
-
 #### 
 
 
