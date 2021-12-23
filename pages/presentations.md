@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: Kahang Ngau's Publication works in Data Analytics
-
+---
 
 #### CONTACT
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] **ngaukahang@gmail.com**
