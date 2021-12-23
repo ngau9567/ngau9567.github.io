@@ -81,10 +81,31 @@ description: Kahang Ngau's Publication works in Data Analytics
 * **Version Two - with an updated in using function 'Session State'**
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ngau9567/map/main/map_0304.py)
 
-
 <br/>&nbsp; &nbsp; &nbsp; 
 
 <center><a href="#top">Back to Top</a></center>
+
+---
+
+#### Regression Analysis Final Report
+*on May 2021*
+##### <a name="MachineLearningCapstoneProject"></a>Project Summary
+<p>The project demonstrates very detailed steps in conducting stepwise function in a regreesion model analysis. It also presented the .</p>
+
+[![Paper PDF](https://img.shields.io/badge/Report PDF-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6765/EMSE_6575_Final_Regression_Project_KahangNgau.pdf)
+
+<br/>&nbsp; &nbsp; &nbsp; 
+
+---
+
+#### Two-Way ANOVA Final Report 
+*on May 2021*
+##### <a name="MachineLearningCapstoneProject"></a>Project Summary
+<p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
+
+[![Paper PDF](https://img.shields.io/badge/Report PDF-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6765/EMSE_6575_Final_ANOVA_Project_KahangNgau.pdf)
+
+<br/>&nbsp; &nbsp; &nbsp; 
 
 ---
 
