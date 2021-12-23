@@ -4,20 +4,23 @@ title: Publications
 description: Kahang Ngau's Publication works in Data Analytics
 ---
 
-#### Links
+#### CONTACT
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] **ngaukahang@gmail.com**
+<br>
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)] **(732)-895-6216**
+<br>
 [![PDF Resume](https://img.shields.io/badge/Resume-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/Kahang_Ngau.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://ngau9567.github.io/pages/about.html)
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/kahang-ngau)
 
 ---
 <br>
+---
 
 #### Classification on Secondhand Smoke Exposure Using Machine Learning Models
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project.</p>
-<p>The purpose of this project is to use different statistical and machine learning classification models to predict whether non-smokers are heavily exposed by SHS or not. And to choose the best model with lowest RMSE and highest AUROC score.</p>
-<p>The project has the folloing steps:</p>
+<p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project. It also evaluates the models and then chooses the best model with lowest RMSE and highest AUROC score. The project has the folloing steps:</p>
 <ul>
   <li>Implemented statistical and ML regression models to classify people are in minor SHS exposure or not in R and R-Markdown.</li> 
   <li>Performed EDA, data visualization, train-test split, and model iterations.</li> 
@@ -34,13 +37,12 @@ description: Kahang Ngau's Publication works in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
-
+---
 #### Evaluation on Public Policy Intervention Using Interrupted with Time Series Regression
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>In this project, I introduceD the use of interrupt with time series regression method on a realworld example of public intervention. I first highlighted the causal inference of the topic in the project, including the proposed cause and the proposed effect.</p>
-<P>I then discuss the sampling strategies concerning the external validity of our pilot data. The measurement from the construct validity of the study is clearly defined before the quasi-experimental design is implemented.</p>
-<P>Finally, I described the main method which is the interrupted with time series analysis, and interpret the meaning from the results.</p>
+<p>In this project, I introduced the use of interrupt with time series regression method on a real-world example of public intervention. I first highlighted the causal inference of the topic in the project, including the proposed cause and the proposed effect.</p>
+<P>I then discuss the sampling strategies concerning the external validity of our pilot data. The measurement from the construct validity of the study is clearly defined before the quasi-experimental design is implemented. Finally, I described the main method which is the interrupted with time series analysis, and interpret the meaning from the results.</p>
 
 ##### Research Paper
 * [![Research Paper](https://img.shields.io/badge/Research Paper-purple?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6577/KahangNgau_Research_Paper.pdf)
@@ -48,7 +50,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
-
+---
 #### Text Analysis on Chinese Digital Collections Using Twitter Tweets
 *Oct 2020 - Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -62,7 +64,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 <br>
 
-<p>Then, we created interactive maps and useful browsing functions in Tableau and ArcGIS with detailed information of collections.</p>
+<p>Then, we created interactive maps and useful browsing functions in Tableau and ArcGIS with detailed information of collections. Both of these products were published on George Washington University's website and they are widely used by researchers.</p>
 
 ##### Tableau
 * [![Tableau](https://img.shields.io/badge/Tableau-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://libguides.gwu.edu/c.php?g=931371&p=8769911)
@@ -72,13 +74,15 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 <br>
 
-<p>Finally, we developed a web-based application to allow users to interact with the database of collections, along with map visualization of collections’ locations. Design and implement multiple advanced searching functions in Python using Streamlit.</p>
+<p>Finally, we developed a web-based application to allow users to interact with the database of collections, along with map visualization of collections’ locations. We also designed and implemented multiple advanced searching functions in Python using the Streamlit platform.</p>
 
 ##### Web-App in Streamlit
 * **Version One**
+
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ngau9567/map/main/map_0203.py)
 
 * **Version Two - with an updated in using function 'Session State'**
+
 [![streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/ngau9567/map/main/map_0304.py)
 
 <br/>&nbsp; &nbsp; &nbsp; 
@@ -86,34 +90,47 @@ description: Kahang Ngau's Publication works in Data Analytics
 <center><a href="#top">Back to Top</a></center>
 
 ---
-
+---
 #### Regression Analysis Final Report
 *on May 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>The project demonstrates very detailed steps in conducting stepwise function in a regreesion model analysis. It also presented the .</p>
+<p>This project demonstrates very detailed steps in conducting stepwise function in a regreesion model analysis.</p>
+<p>First, I presented the importance and the motivation the use of Log(Y) as the dependent variable as opposed to Y. I found the estimated linear regression of Log(Y) on an appropriate set of explanatory variables using the properties and interpret the results. Then I performed and detailed a diagnostic analysis in this report on the regression analysis of the final selected model. Finally, I forcasted the median and average of price of a real estate property with some existing explanatory variables and provided a 95% prediction interval for Y and an approximate 95% confidence interval for E[Y].</p>
 
 [![Paper PDF](https://img.shields.io/badge/Report PDF-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6765/EMSE_6575_Final_Regression_Project_KahangNgau.pdf)
 
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
-
+---
 #### Two-Way ANOVA Final Report 
 *on May 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
+<p>The goal for this project is to perform an Analysis of Variance on a given problem. I then performed a diagnostic analysis of the Analysis of Variance for the project and finally I interrept the results. The following links is the project report of the Two-Way ANOVA analysis</p>
 
 [![Paper PDF](https://img.shields.io/badge/Report PDF-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6765/EMSE_6575_Final_ANOVA_Project_KahangNgau.pdf)
 
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
+---
+#### The Impact of Big Data on Risk Management and Methods to Reduce Risk 
+*on Jul 2021*
+##### <a name="MachineLearningCapstoneProject"></a>Paper Summary
+<p>This is a literature survey paper that summarizes some of risks in different kinds of IT systems. It also introduces the methods or approaches that can be conducted to mitigate those risks by applying big data techniques.</p>
 
+[![Research Paper](https://img.shields.io/badge/Research Paper-purple?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6765/EMSE_6575_Final_ANOVA_Project_KahangNgau.pdf)
+
+<br/>&nbsp; &nbsp; &nbsp; 
+
+<center><a href="#top">Back to Top</a></center>
+
+---
+---
 #### Prodiction on YouTube Video Likes in PySpark
 *on Dec 2020*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance.</p>
-<p>The project has the folloing steps:</p>
+<p>The goals for this project are to identify key features that predict trending videos are being liked the most in the U.S. and to use Machine Learning to train model(s) on prediction and then evaluate and improve model performance. The project has the folloing steps:</p>
 <ul>
   <li>Implemented statistical and ML regression models to predict trending YouTube video likes in Spark Databricks.</li> 
   <li>Performed data cleaning in the steps of missing value imputation, outlier removal, and autocorrelation detection.</li> 
@@ -133,7 +150,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
-
+---
 #### Calories Prediction Using Recipe Ingredients
 *on Dec 2020*
 ##### Project Summary
@@ -158,3 +175,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 * [![Slides PDF](https://img.shields.io/badge/Project Slides-orange?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/EMSE6574/EMSE 6574 Project Presentation.pdf)
 
 ---
+
+<center><a href="#top">Back to Top</a></center>
+
+
