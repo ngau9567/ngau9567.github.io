@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects and Publications
+title: Projects & Publications
 description: Kahang Ngau's Publication works in Data Analytics
 ---
 
