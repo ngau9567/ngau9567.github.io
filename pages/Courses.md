@@ -58,8 +58,6 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 ---
 
 ---
-
-### <a name="Fall 2020">Fall 2020</a>
        
 ### <a name="course3" href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212 - Design and Analysis of Algorithms</a>
 *by Prof. Abdou Youssef*
