@@ -15,6 +15,8 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
+<br/>
+
 #### PROJECT LIST
 
 <div class="navbar">
@@ -35,6 +37,8 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 ---
+
+<br/>
 
 #### <a name="publication1"></a>Classification on Secondhand Smoke Exposure Using Machine Learning Models
 *on Dec 2021*
