@@ -48,9 +48,9 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav" style="float:left">
-            <li><a href="#course4">EMSE6577 - Data-Driven Policy</a></li> 
-            <li><a href="#course5">CSCI8901 - Research & Evaluation Methods</a></li> 
-            <li><a href="#course6">CSCI6907 - Neural Networks</a></li> 
+            <li><a href="#course9">EMSE6577 - Data-Driven Policy</a></li> 
+            <li><a href="#course10">CSCI8901 - Research & Evaluation Methods</a></li> 
+            <li><a href="#course11">CSCI6907 - Neural Networks</a></li> 
         </ul>
     </div>
 </div>
@@ -73,6 +73,21 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
 
 ---
 
+### <a name="course7" href="{{ BASE_PATH }}/pages/CSCI6444.html">CSCI 6444 - Intro to Big Data and Analytics</a>
+*Prof. Stephen H. Kaisler*
+##### Course Description
+<p>This course is an introductory course that will cover a lot of topics in Big Data and Analytics.</p>
+<p>The objectives are:</p>
+<ul>
+       <li>To introduce students to some of the concepts, issues and challenges in dealing with Big Data.</li>
+       <li>To examine the types of analytics and work with a few of the tools to process some relatively Big Data sets.</li>
+       <li>To understand the type of advanced analytics beyond simple statistical analysis, data mining, and statistical machine learning which address complex problems facing business, society, science and engineering today.</li>
+       <li>To describe the roles of data scientist and analytic scientist</li>
+       <li>To practice some of the techniques through class projects.</li>
+</ul>
+
+---
+
 ### <a name="course2" href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574 - Programming for Analytics</a>
 *by Prof. Maksim Tsvetovat*
 ##### Course Description
@@ -84,6 +99,20 @@ Introduction to programming for data analytics using the Python programming lang
 *by Prof. Maksim Tsvetovat*
 ##### Course Description
 Methods and techniques for discovering patterns and relationships in aggregated data, with practical focus on engineering problems. Tools, techniques, and methods explored in the context of their application.
+
+---
+
+### <a name="course9" href="{{ BASE_PATH }}/pages/EMSE6577.html">EMSE 6577 - Data-Driven Policy for Analytics</a>
+*by Prof. David A. Broniatowski*
+##### Course Description
+<p>The application of data mining algorithms and other computational techniques to answer questions related to policy; problem formulation, tool selection, and interpretation of analysis results; volume, velocity, variety, veracity, and value. May serve as a capstone course in the data analytics sequence.</p>
+<ul>
+    <li>1. Formulate a question that is both policy-relevant and amenable to formal data analysis</li>
+    <li>2. Articulate the inferential limits of a given data source vis-à-vis a specific policy question</li>
+    <li>3. Define an analysis methodology appropriate to answer a specific question</li>
+    <li>4. Carry out an analysis yielding policy-relevant insights</li>
+    <li>5. Assess and communicate the meaning of analysis results to a policymaker</li>
+</ul>
 
 ---
 
@@ -103,17 +132,27 @@ Study and design of database and data management systems for big data and data a
 
 ---
 
-### <a name="course7" href="{{ BASE_PATH }}/pages/EMSE6765.html">CSCI 6444 - Intro to Big Data and Analytics</a>
-*Prof. Stephen H. Kaisler*
+### <a name="course8" href="{{ BASE_PATH }}/pages/EMSE6801.html">EMSE 6801 - System Engineering I</a>
+*Prof. Joost Santos*
 ##### Course Description
-<p>This course is an introductory course that will cover a lot of topics in Big Data and Analytics.</p>
-<p>The objectives are:</p>
-<ul>
-       <li>To introduce students to some of the concepts, issues and challenges in dealing with Big Data.</li>
-       <li>To examine the types of analytics and work with a few of the tools to process some relatively Big Data sets.</li>
-       <li>To understand the type of advanced analytics beyond simple statistical analysis, data mining, and statistical machine learning which address complex problems facing business, society, science and engineering today.</li>
-       <li>To describe the roles of data scientist and analytic scientist</li>
-       <li>To practice some of the techniques through class projects.</li>
-</ul>
+<p>Systems approach to the architecting and engineering of large-scale systems; elements of systems engineering; methods and standards; computer tools that support systems and software engineering; trends and directions; the integrative nature of systems engineering.</p>
+
 ---
+
+### <a name="course11" href="{{ BASE_PATH }}/pages/EMSE6801.html">CSCI 6907 - Neural Networks</a>
+*Prof. Joost Santos*
+##### Course Description
+<p>An introduction to Neural Networks covering their history, how to create them from scratch, and how packages like Keras can simplify their use. Throughout this course we’ll dive into how (both in theory and application) these networks can solve regression and classification problems for both simple (numerical, etc.) and complex (images, etc.) datasets.</p>
+
+---
+
+### <a name="course10" href="{{ BASE_PATH }}/pages/EMSE6801.html">CSCI 8901 - Research & Evaluation Methods</a>
+*Prof. Joost Santos*
+##### Course Description
+<p>In this course, we learn the methodology behind experimental research in computer science. The course will cover topics such as planning a new research project, designing experiments, enabling repeatable research, and effectively presenting your results. It will also provide practice with the four skills critical to being an effective researcher: reading, writing, speaking, and thinking creatively.</p>
+
+---
+
+<center><a href="#top">Back to Top</a></center>
+
 
