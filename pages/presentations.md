@@ -36,7 +36,6 @@ description: Kahang Ngau's Publication works in Data Analytics
 </div>
 
 ---
----
 
 <br/>
 
