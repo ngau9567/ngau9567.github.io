@@ -13,9 +13,9 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav" style="float:left">
-            <li><a href="#course1">SEAS 6401 Data Analytics Found/Practicum</a></li> 
-            <li><a href="#course2">EMSE 6574 Programming for Analytics</a></li> 
-            <li><a href="#course3">CSCI 6216 Design & Analysis of Algorithm</a></li> 
+            <li><a href="#course1">SEAS6401 - Data Analytics Found/Practicum</a></li> 
+            <li><a href="#course2">EMSE6574 - Programming for Analytics</a></li> 
+            <li><a href="#course3">CSCI6216 - Design & Analysis of Algorithm</a></li> 
         </ul>
     </div>
 </div>
@@ -25,9 +25,9 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav" style="float:left">
-            <li><a href="#course4">EMSE 6765 Data Analysis for Eng & Sci</a></li> 
-            <li><a href="#course5">EMSE 6586 Database Mgmt for Data Analyts</a></li> 
-            <li><a href="#course6">EMSE 6575 Applied Machine Lrn Analytcs</a></li> 
+            <li><a href="#course4">EMSE6765 - Data Analysis for Eng & Sci</a></li> 
+            <li><a href="#course5">EMSE6586 - Database Mgmt for Data Analyts</a></li> 
+            <li><a href="#course6">EMSE6575 - Applied Machine Lrn Analytcs</a></li> 
         </ul>
     </div>
 </div>
@@ -37,17 +37,28 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 <div class="navbar">
     <div class="navbar-inner">
         <ul class="nav" style="float:left">
-            <li><a href="#course7">CSCI 6444 Intro. to Big Data & Analytics</a></li> 
-            <li><a href="#course8">EMSE 6801 Systems Engineering I</a></li> 
+            <li><a href="#course7">CSCI6444 - Intro. to Big Data & Analytics</a></li> 
+            <li><a href="#course8">EMSE6801 - Systems Engineering I</a></li> 
         </ul>
     </div>
 </div>
 
+#### Fall 2021
 
+<div class="navbar">
+    <div class="navbar-inner">
+        <ul class="nav" style="float:left">
+            <li><a href="#course4">EMSE6577 - Data-Driven Policy</a></li> 
+            <li><a href="#course5">CSCI8901 - Research & Evaluation Methods</a></li> 
+            <li><a href="#course6">CSCI6907 - Neural Networks</a></li> 
+        </ul>
+    </div>
+</div>
 
 ---
 
 ---
+
 ### <a name="Fall 2020">Fall 2020</a>
        
 ### <a name="course3" href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212 - Design and Analysis of Algorithms</a>
