@@ -29,6 +29,9 @@ description: Kahang Ngau's Publication works in Data Analytics
 ##### Smoke Free Project in RPubs
 * [![R-Markdown](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/steven9567/Smoke_Free)
 
+##### Smoke Free Project Version 2 in RPubs
+* [![R-Markdown](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/steven9567/Smoke_Free_two)
+
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
