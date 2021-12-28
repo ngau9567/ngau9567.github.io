@@ -13,8 +13,6 @@ description: Kahang Ngau's Publication works in Data Analytics
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://ngau9567.github.io/pages/about.html)
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/kahang-ngau)
 
----
-
 <br/>
 
 #### Quantitative Research Assistant in RDC Funded Research Project
