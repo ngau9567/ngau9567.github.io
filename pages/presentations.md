@@ -15,28 +15,39 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
-function showhide() {
-  var div = document.getElementById("newpost");
-  div.classList.toggle('hidden'); 
-}
-.hidden{
-display : none;
-}
 <html>
- <head>
-  <title>Show and hide div with JavaScript</title>
- 
- </head>
- <body>
- <!--if you want  by default hidden then add class .hidden in new post -->
-  <div id="newpost"  class="hidden">
-    <p>This div will be show and hide on button click</p>
-  </div>
-  <button id="button" onclick="showhide()">Click Me</button>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: left;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<button onclick="myFunction()">Try it</button>
+
+<div id="myDIV" style="display:none">
+This is my DIV element.
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
 </body>
 </html>
-
----
 
 #### PROJECT LIST
 
@@ -56,6 +67,9 @@ display : none;
     </div>
 </div>
 
+<br/>&nbsp; &nbsp; &nbsp; 
+
+---
 #### Quantitative Research Assistant in RDC Funded Research Project
 ***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
 ***Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
