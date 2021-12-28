@@ -5,15 +5,11 @@ description: Kahang Ngau's Publication works in Data Analytics
 ---
 
 #### CONTACT
-![Gmail](https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&labelColor=white) **ngaukahang@gmail.com**
-<br>
-![Phone](https://img.shields.io/badge/Phone-green?style=plastic&logo=whatsapp&labelColor=white) **(732)895-6216**
-<br>
+![Gmail](https://img.shields.io/badge/Gmail-red?style=plastic&logo=gmail&labelColor=white) 
+![Phone](https://img.shields.io/badge/Phone-green?style=plastic&logo=whatsapp&labelColor=white) 
 [![PDF Resume](https://img.shields.io/badge/Resume-pink?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/Kahang_Ngau.pdf)
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=GitHub&style=plastic)](https://ngau9567.github.io/pages/about.html)
 [![LinkedIn Link](https://img.shields.io/badge/LinkedIn-blue?style=plastic&logo=linkedin&labelColor=blue)](https://linkedin.com/in/kahang-ngau)
-
----
 
 <html>
 <head>
@@ -32,7 +28,10 @@ description: Kahang Ngau's Publication works in Data Analytics
 <button onclick="myFunction()">Try it</button>
 
 <div id="myDIV" style="display:none">
-This is my DIV element.
+Gmail: ngaukahang@gmail.com
+Phone: (732)895-6216
+Linkedin: https://www.linkedin.com/in/kahang-ngau/
+Portfolio: https://ngau9567.github.io/pages/presentations.html
 </div>
 
 <script>
@@ -48,6 +47,8 @@ function myFunction() {
 
 </body>
 </html>
+
+---
 
 #### PROJECT LIST
 
@@ -90,7 +91,6 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
 
 #### <a name="publication1"></a>Classification on Secondhand Smoke Exposure Using Machine Learning Models
 *on Dec 2021*
@@ -112,7 +112,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
+
 #### <a name="publication2"></a>Evaluation on Public Policy Intervention Using Interrupted with Time Series Regression
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -128,7 +128,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
+
 #### <a name="publication3"></a>Text Analysis on Chinese Digital Collections Using Twitter Tweets
 *Oct 2020 - Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -168,7 +168,7 @@ function myFunction() {
 <center><a href="#top">Back to Top</a></center>
 
 ---
----
+
 #### <a name="publication4"></a>Regression Analysis Final Report
 *on May 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -180,7 +180,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
+
 #### <a name="publication5"></a>Two-Way ANOVA Final Report 
 *on May 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -191,7 +191,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
+
 #### <a name="publication9"></a>Built Database in MySQL 
 *on May 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -209,7 +209,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
+
 #### <a name="publication6"></a>The Impact of Big Data on Risk Management and Methods to Reduce Risk 
 *on Jul 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Paper Summary
@@ -222,7 +222,7 @@ function myFunction() {
 <center><a href="#top">Back to Top</a></center>
 
 ---
----
+
 #### <a name="publication7"></a>Prodiction on YouTube Video Likes in PySpark
 *on Dec 2020*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -247,7 +247,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
----
+
 #### <a name="publication8"></a>Calories Prediction Using Recipe Ingredients
 *on Dec 2020*
 ##### Project Summary
