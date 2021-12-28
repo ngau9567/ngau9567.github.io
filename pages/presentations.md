@@ -15,6 +15,46 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+#myDIV {
+  width: 100%;
+  padding: 50px 0;
+  text-align: center;
+  background-color: lightblue;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+
+<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
+
+<button onclick="myFunction()">Quantitative Research Assistant in RDC Funded Research Project</button>
+
+<div id="myDIV">
+This is my DIV element.
+</div>
+
+<p><b>Note:</b> The element will not take up any space when the display property set to "none".</p>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
+
 #### Quantitative Research Assistant in RDC Funded Research Project
 ***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
 ***Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
