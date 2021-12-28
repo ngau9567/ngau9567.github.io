@@ -15,7 +15,6 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,41 +22,20 @@ description: Kahang Ngau's Publication works in Data Analytics
 #myDIV {
   width: 100%;
   padding: 50px 0;
-  text-align: center;
-  background-color: lightblue;
+  text-align: left;
   margin-top: 20px;
 }
 </style>
 </head>
 <body>
 
-<p>Click the "Try it" button to toggle between hiding and showing the DIV element:</p>
+#### Quantitative Research Assistant in RDC Funded Research Project
 
-<button onclick="myFunction()">Quantitative Research Assistant in RDC Funded Research Project</button>
+<button onclick="myFunction()">Show Content</button>
 
 <div id="myDIV">
-This is my DIV element.
-</div>
-
-<p><b>Note:</b> The element will not take up any space when the display property set to "none".</p>
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
-
-</body>
-</html>
-
-#### Quantitative Research Assistant in RDC Funded Research Project
-***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
-***Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
+**Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
+**Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
 ***Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health*<br/>
 ***Supervisors:** Dr MyDzung T. Chu and Dr Ami Zota*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
@@ -73,6 +51,21 @@ function myFunction() {
 * [![R-Markdown](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/steven9567/Smoke_Free_two)
 
 <br/>&nbsp; &nbsp; &nbsp; 
+</div>
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+
+</body>
+</html>
 
 ---
 
