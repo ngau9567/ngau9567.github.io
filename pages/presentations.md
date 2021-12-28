@@ -17,7 +17,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 #### Quantitative Research Assistant in RDC Funded Research Project
 ***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
-***Funded by:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
+***Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
 ***Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health*<br/>
 ***Supervisors:** Dr MyDzung T. Chu and Dr Ami Zota*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
