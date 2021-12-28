@@ -28,10 +28,12 @@ description: Kahang Ngau's Publication works in Data Analytics
 <button onclick="myFunction()">Try it</button>
 
 <div id="myDIV" style="display:none">
-Gmail: ngaukahang@gmail.com
-Phone: (732)895-6216
-Linkedin: https://www.linkedin.com/in/kahang-ngau/
-Portfolio: https://ngau9567.github.io/pages/presentations.html
+  <ul>
+    <li><b>Gmail:</b> ngaukahang@gmail.com</li>
+    <li><b>Phone:</b> (732)895-6216</li>
+    <li><b>Linkedin:</b> https://www.linkedin.com/in/kahang-ngau/</li>
+    <li><b>Portfolio:</b> https://ngau9567.github.io/pages/presentations.html</li>
+  </ul>
 </div>
 
 <script>
