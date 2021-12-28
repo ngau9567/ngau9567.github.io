@@ -17,6 +17,24 @@ description: Kahang Ngau's Publication works in Data Analytics
 
 <br/>
 
+#### Quantitative Research Assistant in RDC Funded Research Project
+***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
+***Funded by:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
+***Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health*<br/>
+***Supervisors:** Dr MyDzung T. Chu and Dr Ami Zota*
+##### <a name="MachineLearningCapstoneProject"></a>Project Summary
+<p>Racial/ethnic and socioeconomic disparities in housing conditions play a critical role in stark health disparities observed in the U.S. Housing assistance may impact health by improving housing quality and the residential environment. The objective of our project is to characterize the relationship between housing assistance and residential environmental exposures. We hypothesize that residential exposures will be significantly different between residents living in federally-assisted housing stock and residents living in other types of low-income housing due to differences in: compliance with federal regulations and policies specific to public housing, management and maintenance practices, and physical attributes of the housing stock. In this work, we will use the linkage of National Health and Nutrition Examination Survey (NHANES) data to the U.S. Department of Housing and Urban Development (HUD) administrative records covering the period 1999-2016.</p>
+
+##### Project Slides
+* [![Project Poster](https://img.shields.io/badge/Project Poster-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/HUD/MChu_IAPHS2021_10.19.21.pdf)
+
+##### Part of the Project Publication in RPubs
+* [![R-Markdown](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/steven9567/Smoke_Free)
+
+<br/>&nbsp; &nbsp; &nbsp; 
+
+---
+
 #### PROJECT LIST
 
 <div class="navbar">
@@ -38,25 +56,6 @@ description: Kahang Ngau's Publication works in Data Analytics
 ---
 
 <br/>
-
-#### Quantitative Research Assistant in RDC Funded Research Project
-***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
-***Funded by:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
-***Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health*<br/>
-***Supervisors:** Dr MyDzung T. Chu and Dr Ami Zota*
-##### <a name="MachineLearningCapstoneProject"></a>Project Summary
-<p>Racial/ethnic and socioeconomic disparities in housing conditions play a critical role in stark health disparities observed in the U.S. Housing assistance may impact health by improving housing quality and the residential environment. The objective of our project is to characterize the relationship between housing assistance and residential environmental exposures. We hypothesize that residential exposures will be significantly different between residents living in federally-assisted housing stock and residents living in other types of low-income housing due to differences in: compliance with federal regulations and policies specific to public housing, management and maintenance practices, and physical attributes of the housing stock. In this work, we will use the linkage of National Health and Nutrition Examination Survey (NHANES) data to the U.S. Department of Housing and Urban Development (HUD) administrative records covering the period 1999-2016.</p>
-
-##### Project Slides
-* [![Project Poster](https://img.shields.io/badge/Project Poster-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABv1BMVEWpk5KxrKuyAAC0tbW2AAC5ubm9vb2/v7/AtbXEyMjJysrMnZzQ0NDRd3XUwcHU1NTYAADY2NjZjY3a2trbXFfbjYvb29vchoTchoXclJPcpKLc3NzdgoDdjo3dmJbdzs7d3d3eLSTekY/elpPe3t7e4eHfenffgn/f39/gBADgaWXgycngysng4ODg5eXhU07hxcTh4eHiycjiysni4uLjoqHjtbTj4uLj4+Pj5OTj5eXj6enklpTkx8bk2tnk5OTk6enlg4Ll4eHl5OTl5eXm3t3m5eXm5ubm6Ojm6+zn5ubn5+fn6enn6+vokY7o5OTo5+fo6Ojo6enp5eXp6Ojp6enp7O3q7ezq7u7rqafrvLrr2trr6urr6+vr9vbsiIbsubjs1NPs4+Ps6+vtpqPt1NPt1dTt7e3t7+/u6+vvko7vu7vvyMbv7+/v+fnwy8rw7e3x7+/x8vLx8vPy5eXy8vLy8/Py9/fy+vrz2dnz8fHz9vbz+fn0hID04N/08vL08/P1h4T19PT1/Pz2z873+fn4+Pj4+fn4+vr58/P5+fn6+vr7+/v8/Pz8/f38///98fH9///+/v7//v7////9cRVWAAAA2klEQVQYVwXBu00DQRRA0Ttv3s7sencsQ4IgICdBogVEWQSQ0IBjEuqgAwogQUR8JEJj4bXn8zjHrd3TV8i5zu02NQEhv8VyEPO7+600EIjTtJrSqYTHjTTEWVgO42KU8vt5t5EmtDCl5Tj5Qao9IAo+VieH1dXgPr73UaFL2qrtFjmfzKCgCyy/nzeJTg2FGHCHaVljMwWF2PvmL39c+usHEOhSDNuaQjcED4qJj3bmre6DeFAIWnwozroqAgpHY3QFMyvdsaG4l3luFCrweo3SXzwLAPh8E/kHIjxRqCpB+v4AAAAASUVORK5CYII=&style=plastic)]({{ BASE_PATH }}/assets/HUD/MChu_IAPHS2021_10.19.21.pdf)
-
-##### Part of the Project Publication in RPubs
-* [![R-Markdown](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://rpubs.com/steven9567/Smoke_Free)
-
-<br/>&nbsp; &nbsp; &nbsp; 
-
----
----
 
 #### <a name="publication1"></a>Classification on Secondhand Smoke Exposure Using Machine Learning Models
 *on Dec 2021*
