@@ -26,7 +26,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 </head>
 <body>
 
-<button onclick="myFunction()">Expand</button>
+<button onclick="myFunction()">Expand for More Info</button>
 
 <div id="myDIV" style="display:none">
   <ul>
