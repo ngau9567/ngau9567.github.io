@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects & Publications
+date: 2021-12-28
 description: Kahang Ngau's Publication works in Data Analytics
 ---
 
