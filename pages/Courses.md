@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The George Washington University Classes
-date: 2021-05-04
+date: 2021-12-28
 description: Kahang Ngau's Assignment and Project Submissions
 ---
 
