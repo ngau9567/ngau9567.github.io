@@ -13,7 +13,7 @@ title: Kahang Ngau
   </div>
 </div>
 
-### <a name="Portfolio"></a>Portfolio
+### <a name="Portfolio"></a>Highlights
 <table class="wide">
 <tr>
   <td class="left">
