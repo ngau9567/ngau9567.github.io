@@ -18,9 +18,9 @@ description: Kahang Ngau's Publication works in Data Analytics
 <style>
 #myDIV {
   width: 100%;
-  padding: 50px 0;
+  padding: 30px 0;
   text-align: left;
-  margin-top: 20px;
+  margin-top: 10px;
 }
 </style>
 </head>
@@ -31,7 +31,7 @@ description: Kahang Ngau's Publication works in Data Analytics
 <div id="myDIV" style="display:none">
   <ul>
     <li><b>Gmail:</b> ngaukahang@gmail.com</li>
-    <li><b>Phone:</b> (732)895-6216</li>
+    <li><b>Phone:</b> (732) 895-6216</li>
     <li><b>Linkedin:</b> <a href="https://www.linkedin.com/in/kahang-ngau/">https://www.linkedin.com/in/kahang-ngau/</a></li>
     <li><b>Portfolio:</b> <a href="https://ngau9567.github.io/pages/presentations.html">https://ngau9567.github.io/pages/presentations.html</a></li>
   </ul>
