@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+date: 2021-12-28
 description: Introduction of Kahang Ngau
 ---
 <p>Kahang has obtained the Master of Science degree in Data Analytics at George Washington University with a GPA of 3.96/4.0 and has worked as a quantitative researcher for more than one year while in school. He has two years’ work experience as a data analyst and he joined Bloomberg in 2019 as a financial data analyst. He has a very strong background in statistical analytics and programming in Python and R. He is passionate about using data science to ensure effective data-driven decision-making. He has great expertise in utilizing big data techniques to build machine learning models and developing innovative solutions to solve business challenges. He is also a team player with great presentation skills to communicate efficiently with both technical and non-technical audiences.</p>
