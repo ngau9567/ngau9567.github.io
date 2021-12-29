@@ -74,7 +74,7 @@ function myFunction() {
 <br/>&nbsp; &nbsp; &nbsp; 
 
 ---
-### Quantitative Research Assistant in RDC Funded Research Project
+#### Quantitative Research Assistant in RDC Funded Research Project
 ***Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
 ***Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
 ***Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health*<br/>
@@ -95,7 +95,7 @@ function myFunction() {
 
 ---
 
-### <a name="publication1"></a>Classification on Secondhand Smoke Exposure Using Machine Learning Models
+#### <a name="publication1"></a>Classification on Secondhand Smoke Exposure Using Machine Learning Models
 *on Dec 2021*
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>This project will investigate the abilities of different logistic models on classifying whether people are under SHS exposure or not, using demographic predictors. SHS is measured by serum cotinine (by blood examination) in this project. It also evaluates the models and then chooses the best model with lowest RMSE and highest AUROC score. The project has the folloing steps:</p>
