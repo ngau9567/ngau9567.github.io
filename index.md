@@ -1,6 +1,7 @@
 ---
 layout: frontpage
 title: Kahang Ngau
+date: 2021-12-28
 description: Kahang Ngau is a detail-oriented data science professional with 2+ years of working experience in statistical analytics and machine learning techniques. Looking for a data scientist role to utilize my analytical and programming skills for the creation of data insights.
 keywords: statistics, data analytics
 ---
