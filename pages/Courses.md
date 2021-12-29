@@ -58,14 +58,14 @@ This page contains links to the courses taken at GWU and beyond. Use the navigat
 ---
        
 ### <a name="course3" href="{{ BASE_PATH }}/pages/CSCI6212.html">CSCI 6212 - Design and Analysis of Algorithms</a>
-*by Prof. Abdou Youssef*
+*Prof. Abdou Youssef*
 ##### Course Description
 Design and analysis of algorithms; Turing machines; NP-complete theory; algorithmic techniques: divide-and-conquer, greedy, dynamic programming, graph traversal, backtracking, and branch-and-bound; applications include sorting and searching, graph algorithms, and optimization.
 
 ---
 
 ### <a name="course1" href="{{ BASE_PATH }}/pages/SEAS6401.html">SEAS 6401 - Data Analytics Foundations & Practicum</a>
-*by Prof. Benjamin Harvey*
+*Prof. Benjamin Harvey*
 ##### Course Description
 Introduction to concepts and techniques in data analytics. Basic techniques of data science; algorithms for data mining; basics of statistical modeling and their “Big Data” applications. Concepts, abstractions, and practical techniques. Restricted to students in the MS in data analytics program.
 
@@ -87,21 +87,21 @@ Introduction to concepts and techniques in data analytics. Basic techniques of d
 ---
 
 ### <a name="course2" href="{{ BASE_PATH }}/pages/EMSE6574.html">EMSE 6574 - Programming for Analytics</a>
-*by Prof. Maksim Tsvetovat*
+*Prof. Maksim Tsvetovat*
 ##### Course Description
 Introduction to programming for data analytics using the Python programming language. Prepares students for higher-level courses in data analytics. Recommended background: Some prior experience with programming.
 
 ---
 
 ### <a name="course6" href="{{ BASE_PATH }}/pages/EMSE6575.html">EMSE 6575 - Applied Machine Learning for Analytics</a>
-*by Prof. Maksim Tsvetovat*
+*Prof. Maksim Tsvetovat*
 ##### Course Description
 Methods and techniques for discovering patterns and relationships in aggregated data, with practical focus on engineering problems. Tools, techniques, and methods explored in the context of their application.
 
 ---
 
 ### <a name="course9" href="{{ BASE_PATH }}/pages/EMSE6577.html">EMSE 6577 - Data-Driven Policy for Analytics</a>
-*by Prof. David A. Broniatowski*
+*Prof. David A. Broniatowski*
 ##### Course Description
 <p>The application of data mining algorithms and other computational techniques to answer questions related to policy; problem formulation, tool selection, and interpretation of analysis results; volume, velocity, variety, veracity, and value. May serve as a capstone course in the data analytics sequence.</p>
 <ul>
@@ -115,7 +115,7 @@ Methods and techniques for discovering patterns and relationships in aggregated 
 ---
 
 ### <a name="course5" href="{{ BASE_PATH }}/pages/EMSE6586.html">EMSE 6586 - DBMS for Data Analytics</a>
-*by Prof. Joel Klein*
+*Prof. Joel Klein*
 ##### Course Description
 Study and design of database and data management systems for big data and data analytics; design of relational database systems and the SQL query language; NoSQL databases for unstructured data, including key-value, distributed table, graph databases, parallel processing databases. 
 
