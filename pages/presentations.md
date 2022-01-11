@@ -103,7 +103,7 @@ function myFunction() {
   <li>Implemented statistical and ML regression models to classify people are in minor SHS exposure or not in R and R-Markdown.</li> 
   <li>Performed EDA, data visualization, train-test split, and model iterations.</li> 
   <li>Built different statistical and machine learning models, including GLM, Random Forest, and XGBoost with hyperparameter tuning.</li> 
-  <li>BInterpreted the model results and selected the best model with the lowest RMSE and highest AUCROC score.</li>
+  <li>Interpreted the model results and selected the best model with the lowest RMSE and highest AUCROC score.</li>
 </ul>
 
 ##### Publication in RPubs
