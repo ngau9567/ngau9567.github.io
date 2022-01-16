@@ -75,10 +75,10 @@ function myFunction() {
 
 ---
 #### Quantitative Research Assistant in RDC Funded Research Project
-**Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures*<br/>
-**Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)*<br/>
-**Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health*<br/>
-**Supervisors:** Dr MyDzung T. Chu and Dr Ami Zota*
+**Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures<br/>
+**Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)<br/>
+**Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health<br/>
+**Supervisors:** Dr MyDzung T. Chu and Dr Ami Zota
 ##### <a name="MachineLearningCapstoneProject"></a>Project Summary
 <p>Racial/ethnic and socioeconomic disparities in housing conditions play a critical role in stark health disparities observed in the U.S. Housing assistance may impact health by improving housing quality and the residential environment. The objective of our project is to characterize the relationship between housing assistance and residential environmental exposures. We hypothesize that residential exposures will be significantly different between residents living in federally-assisted housing stock and residents living in other types of low-income housing due to differences in: compliance with federal regulations and policies specific to public housing, management and maintenance practices, and physical attributes of the housing stock. In this work, we will use the linkage of National Health and Nutrition Examination Survey (NHANES) data to the U.S. Department of Housing and Urban Development (HUD) administrative records covering the period 1999-2016.</p>
 
