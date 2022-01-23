@@ -75,6 +75,7 @@ function myFunction() {
 
 ---
 #### Quantitative Research Assistant in RDC Funded Research Project
+*From May 2021 to Dec 2021*
 **Project Title:** The Impact of Housing Assistance on Residential Environmental Exposures<br/>
 **Funded by:** US Department of Housing and Urban Development (HUD) Healthy Homes Program Homes Technical Research (DCHHU0054-19)<br/>
 **Organization:** Environmental Occupational Health at The George Washington University, The Milken Institute School of Public Health<br/>
